@@ -1,6 +1,16 @@
 import { useState, useEffect } from 'react';
 import type { Question } from '../types';
-import { questions as localQuestions } from '../data/questions';
+import allQuestionsData from '../data/questions.json';
+
+// Helper to shuffle array (Fisher-Yates)
+function shuffle<T>(array: T[]): T[] {
+    const newArr = [...array];
+    for (let i = newArr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+    }
+    return newArr;
+}
 
 export const useQuestions = (language: string) => {
     const [questions, setQuestions] = useState<Question[]>([]);
@@ -14,15 +24,47 @@ export const useQuestions = (language: string) => {
             await new Promise(resolve => setTimeout(resolve, 500));
 
             try {
-                // Transform local questions if necessary to match expected type
-                // The localQuestions export matches Question interface mostly,
-                // but we might need to map it if types strictly mismatch or for multi-language.
-                const mappedQuestions = localQuestions.map(q => ({
-                    ...q,
-                    topicNumber: 0 // Default or map if available
-                })) as unknown as Question[];
+                // Cast imported data to Question[] to ensure type compatibility
+                // questions.json structure aligns well with Question interface
+                const allQuestions = allQuestionsData as unknown as Question[];
 
-                setQuestions(mappedQuestions);
+                // Group questions by topicNumber
+                const questionsByTopic = new Map<number, Question[]>();
+                allQuestions.forEach(q => {
+                    // Start topic numbering from 1 if 0, or ensure it exists
+                    // Assuming topicNumber is reliable in json. If missing, might need fallback.
+                    // Based on previous file view, topicNumber exists.
+                    const topic = q.topicNumber;
+                    if (!questionsByTopic.has(topic)) {
+                        questionsByTopic.set(topic, []);
+                    }
+                    questionsByTopic.get(topic)?.push(q);
+                });
+
+                const selectedQuestions: Question[] = [];
+
+                // We expect 25 topics (1-25). 
+                // Iterate through expected topics to ensure coverage, or iterate keys map.
+                // Iterating 1 to 25 ensures we get exactly what we want if available.
+                const TOTAL_TOPICS = 25;
+                const QUESTIONS_PER_TOPIC = 2;
+
+                for (let i = 1; i <= TOTAL_TOPICS; i++) {
+                    const topicQuestions = questionsByTopic.get(i);
+                    if (topicQuestions && topicQuestions.length > 0) {
+                        const shuffled = shuffle(topicQuestions);
+                        selectedQuestions.push(...shuffled.slice(0, QUESTIONS_PER_TOPIC));
+                    }
+                }
+
+                // If for some reason we missed topics (e.g. json data issue), 
+                // we might have fewer than 50. 
+                // But blindly taking what we found is safer than erroring out.
+
+                // Shuffle the final list so topics are mixed
+                const finalQuizQuestions = shuffle(selectedQuestions);
+
+                setQuestions(finalQuizQuestions);
                 setSessionId(crypto.randomUUID());
                 setLoading(false);
             } catch (err: unknown) {

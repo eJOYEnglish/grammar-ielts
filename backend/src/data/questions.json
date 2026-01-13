@@ -507,7 +507,7 @@
   },
   {
     "id": "a8797eca-e765-40b1-8748-c36f0b4719ce",
-    "contentEn": "While we’re working on the project our boss __________ on a beach in Greece!",
+    "contentEn": "While we’re working on the project next week our boss __________ on a beach in Greece!",
     "grammarTopic": "Future 2",
     "topicNumber": 6,
     "answers": [
@@ -553,7 +553,7 @@
   },
   {
     "id": "3d02113c-e347-4d2e-8f6c-a1048440f104",
-    "contentEn": "If the trend continues, the average income __________ by 107% by 2020.",
+    "contentEn": "If the trend continues, the average income __________ by 107% by 2030.",
     "grammarTopic": "Future 2",
     "topicNumber": 6,
     "answers": [
@@ -1310,7 +1310,7 @@
       },
       {
         "id": "95c999f9-dd35-4408-943f-9a3ab4fd277f",
-        "textEn": "must I do",
+        "textEn": "must I to do",
         "isCorrect": false
       }
     ],
@@ -2036,7 +2036,7 @@
       },
       {
         "id": "35986ba6-e794-4124-93ba-94153710155f",
-        "textEn": "I'm fixing my car",
+        "textEn": "I fixing my car",
         "isCorrect": false
       },
       {
@@ -2092,7 +2092,7 @@
       },
       {
         "id": "6f086564-a39f-4d19-bf6e-7535ebea2559",
-        "textEn": "but",
+        "textEn": "because",
         "isCorrect": false
       }
     ],
@@ -2128,17 +2128,17 @@
       },
       {
         "id": "eabe516c-c14e-4155-a012-2185710d66e5",
-        "textEn": "However",
+        "textEn": "However,",
         "isCorrect": false
       },
       {
         "id": "d5cb331a-2011-4cc0-9a45-be7f4b951328",
-        "textEn": "Therefore",
+        "textEn": "Therefore,",
         "isCorrect": false
       },
       {
         "id": "3480de5e-81b7-42da-8d97-50ad3bcdb36f",
-        "textEn": "Despite",
+        "textEn": "For example,",
         "isCorrect": false
       }
     ],
@@ -6176,7 +6176,7 @@
       },
       {
         "id": "18ec4fca-a21b-4095-b216-94e61f5400fc",
-        "textEn": "must I do",
+        "textEn": "must I to do",
         "isCorrect": false
       },
       {

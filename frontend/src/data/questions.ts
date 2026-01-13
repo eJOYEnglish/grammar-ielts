@@ -51,7 +51,7 @@ export const questions: Question[] = [
             { id: 'a1', textEn: "weren't having", isCorrect: false },
             { id: 'a2', textEn: "didn't have", isCorrect: true },
             { id: 'a3', textEn: "weren't used to having", isCorrect: false },
-            { id: 'a4', textEn: 'had', isCorrect: false },
+            { id: 'a4', textEn: "haven't had", isCorrect: false },
         ],
         grammarTopic: 'Past tenses 1',
         explanationEn: 'Past Simple negative of "have". We don\'t usually use "having" for possession in the past.',
@@ -176,7 +176,7 @@ export const questions: Question[] = [
     {
         id: 'q13',
         questionNumber: 13,
-        contentEn: 'If the trend continues, the average income __________ by 107% by 2020.',
+        contentEn: 'If the trend continues, the average income __________ by 107% by 2030.',
         answers: [
             { id: 'a1', textEn: 'will increase', isCorrect: false },
             { id: 'a2', textEn: 'will have increased', isCorrect: true },
@@ -610,7 +610,7 @@ export const questions: Question[] = [
             { id: 'a1', textEn: 'although', isCorrect: true },
             { id: 'a2', textEn: 'however', isCorrect: false },
             { id: 'a3', textEn: 'despite', isCorrect: false },
-            { id: 'a4', textEn: 'but', isCorrect: false },
+            { id: 'a4', textEn: 'because', isCorrect: false },
         ],
         grammarTopic: 'Linking ideas',
         explanationEn: 'Conjunction for contrast.',
@@ -621,7 +621,7 @@ export const questions: Question[] = [
         contentEn: 'Learning a foreign language is important because it helps you to understand other cultures better. __________ it can be a useful skill in many areas of work.',
         answers: [
             { id: 'a1', textEn: 'However,', isCorrect: false },
-            { id: 'a2', textEn: 'Moreover,', isCorrect: false },
+            { id: 'a2', textEn: 'For example,', isCorrect: false },
             { id: 'a3', textEn: 'In addition,', isCorrect: true },
             { id: 'a4', textEn: 'Therefore,', isCorrect: false },
         ],
