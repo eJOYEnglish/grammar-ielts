@@ -27,7 +27,7 @@ function doPost(e) {
         // 1. Ensure Sheets Exist
         const attemptsSheet = ensureSheet(doc, "Test_Attempts", [
             "attempt_id", "timestamp", "student_name", "student_email", "student_phone",
-            "total_score", "max_score", "percentage", "duration_seconds", "cefr_level", "study_plan_summary"
+            "total_score", "max_score", "percentage", "duration_seconds", "cefr_level", "study_plan_summary", "study_plan_link"
         ]);
 
         const responsesSheet = ensureSheet(doc, "Question_Responses", [
@@ -51,7 +51,8 @@ function doPost(e) {
             (contents.score.total / contents.score.max) * 100,
             contents.attempt.duration,
             contents.score.cefr || "N/A",
-            contents.studyPlan || ""
+            contents.studyPlan || "",
+            contents.studyPlanLink || ""
         ]);
 
         // Append to Question_Responses
@@ -494,7 +495,7 @@ function testSaveToSheet() {
     // 1. Ensure Sheets Exist
     const attemptsSheet = ensureSheet(doc, "Test_Attempts", [
         "attempt_id", "timestamp", "student_name", "student_email", "student_phone",
-        "total_score", "max_score", "percentage", "duration_seconds", "cefr_level", "study_plan_summary"
+        "total_score", "max_score", "percentage", "duration_seconds", "cefr_level", "study_plan_summary", "study_plan_link"
     ]);
 
     // 2. Create Sample Data
@@ -519,7 +520,8 @@ function testSaveToSheet() {
         70,
         300,
         "B1",
-        studyPlanString // <--- This is the new field
+        studyPlanString, // <--- This is the new field
+        "https://example.com/study-plan?topics=abc" // <--- Link
     ]);
 
     Logger.log("Sample row added to 'Test_Attempts'. Check your sheet now!");
