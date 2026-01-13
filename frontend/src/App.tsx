@@ -7,7 +7,7 @@ import { ResultsPage } from './pages/ResultsPage'
 import { StudyPlanPage } from './pages/StudyPlanPage'
 import { LanguageProvider, useLanguage } from './context/LanguageContext'
 import { Header } from './components/Header'
-import { DemoNav } from './components/DemoNav'
+
 import { identifyWeakAreas } from './utils/scoring';
 import type { QuizResultsResponse } from './types'
 
@@ -279,7 +279,7 @@ function Main() {
   return (
     <>
       <Header />
-      <DemoNav onNavigate={setCurrentPage} />
+
       {renderPage()}
     </>
   );
