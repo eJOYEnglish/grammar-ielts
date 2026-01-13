@@ -68,6 +68,40 @@ export const zh: Translation = {
         continue: "继续"
     },
 
+    // Email Success Page
+    emailSuccess: {
+        title: "Study Plan Sent!",
+        message: "We've sent your personalized results and study plan to your inbox. Please check your spam folder if you don't see it.",
+        notReceived: "Didn't receive it?",
+        contactSupport: "Contact Support",
+        retake: "Retake the test"
+    },
+
+    // Email Request Page
+    emailRequest: {
+        title: "Get Your Plan & Gift Code",
+        immediateAccess: "IMMEDIATE ACCESS",
+        downloadPdf: "Download Free PDF Plan",
+        downloadDesc: "Get your personalized grammar diagnostic results as a PDF instantly.",
+        downloadBtn: "Download PDF",
+        freeReady: "Free & Ready Now",
+        emailGift: "EMAIL & SPECIAL GIFT",
+        onlyLeft: "Only 100 left!",
+        limitedOffer: "LIMITED OFFER",
+        emailTitle: "Email Results & Get 7-Day Gift",
+        emailDesc: "Receive your summary and a gift code for immersive video lessons.",
+        fullName: "Full Name",
+        namePlaceholder: "Enter your name",
+        emailAddr: "Email Address",
+        emailPlaceholder: "name@example.com",
+        phoneNum: "Phone Number",
+        phonePlaceholder: "+1 (555) 000-0000",
+        submitBtn: "Send My Gift Code",
+        sending: "Sending...",
+        privacy: "We'll never share your details with third parties.",
+        phoneError: "Please enter a valid phone number"
+    },
+
     // Common
     common: {
         loading: "加载中...",
