@@ -68,6 +68,15 @@ export const vi: Translation = {
         continue: "Tiếp Tục"
     },
 
+    // Email Success Page
+    emailSuccess: {
+        title: "Đã Gửi Kế Hoạch Học Tập!",
+        message: "Chúng tôi đã gửi kết quả chi tiết và kế hoạch học tập cá nhân hóa vào hòm thư của bạn. Vui lòng kiểm tra mục thư rác (spam) nếu không tìm thấy.",
+        notReceived: "Chưa nhận được email?",
+        contactSupport: "Liên hệ Hỗ trợ",
+        retake: "Làm lại bài test"
+    },
+
     // Common
     common: {
         loading: "Đang tải...",

@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from '../hooks/useTranslation';
 
 interface EmailSuccessPageProps {
     onClose: () => void;
@@ -6,6 +7,7 @@ interface EmailSuccessPageProps {
 }
 
 export const EmailSuccessPage: React.FC<EmailSuccessPageProps> = ({ onClose, onRetake }) => {
+    const { t } = useTranslation();
     return (
         <div className="relative flex min-h-screen w-full flex-col bg-white text-[#111518] font-['Lexend'] overflow-x-hidden antialiased selection:bg-[#1da1f2] selection:text-white">
             <div className="sticky top-0 z-50 flex items-center bg-white p-4 justify-end">
@@ -30,17 +32,17 @@ export const EmailSuccessPage: React.FC<EmailSuccessPageProps> = ({ onClose, onR
                 </div>
 
                 <h1 className="text-[#111518] text-3xl font-bold text-center mb-4 leading-tight tracking-tight">
-                    Study Plan Sent!
+                    {t('emailSuccess.title')}
                 </h1>
 
                 <p className="text-[#4F5B67] text-center text-lg leading-relaxed mb-12">
-                    We've sent your personalized results and study plan to your inbox. Please check your spam folder if you don't see it.
+                    {t('emailSuccess.message')}
                 </p>
 
                 <div className="flex flex-col items-center gap-1 mt-4 py-6 border-t border-gray-100 w-full">
-                    <p className="text-sm text-gray-500">Didn't receive it?</p>
+                    <p className="text-sm text-gray-500">{t('emailSuccess.notReceived')}</p>
                     <a className="text-[#1da1f2] font-semibold text-sm hover:underline flex items-center gap-1" href="mailto:support@ejoy-english.com">
-                        Contact Support
+                        {t('emailSuccess.contactSupport')}
                         <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>mail</span>
                     </a>
                 </div>
@@ -51,7 +53,7 @@ export const EmailSuccessPage: React.FC<EmailSuccessPageProps> = ({ onClose, onR
                     onClick={onRetake}
                     className="w-full h-16 bg-[#1da1f2] hover:bg-[#1a94df] active:scale-[0.98] transition-all text-white rounded-full font-bold text-lg shadow-lg shadow-blue-200/50 flex items-center justify-center"
                 >
-                    Retake the test
+                    {t('emailSuccess.retake')}
                 </button>
                 <div className="h-4"></div>
             </div>

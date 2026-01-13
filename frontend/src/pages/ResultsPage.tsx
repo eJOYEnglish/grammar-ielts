@@ -113,10 +113,7 @@ export const ResultsPage: React.FC<ResultsPageProps> = ({
                 {/* Celebration Section */}
                 <div className="celebration-section">
                     <h2 className="celebration-title">{t('results.testComplete')}</h2>
-                    <p className="celebration-subtitle">
-                        {t('results.congratulations')}<br />
-                        {t('results.pushStrong')}
-                    </p>
+
                 </div>
 
                 {/* Score Card */}

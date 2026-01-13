@@ -66,6 +66,15 @@ export const en = {
         continue: "Continue"
     },
 
+    // Email Success Page
+    emailSuccess: {
+        title: "Study Plan Sent!",
+        message: "We've sent your personalized results and study plan to your inbox. Please check your spam folder if you don't see it.",
+        notReceived: "Didn't receive it?",
+        contactSupport: "Contact Support",
+        retake: "Retake the test"
+    },
+
     // Common
     common: {
         loading: "Loading...",
