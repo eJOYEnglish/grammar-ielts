@@ -77,6 +77,31 @@ export const vi: Translation = {
         retake: "Làm lại bài test"
     },
 
+    // Email Request Page
+    emailRequest: {
+        title: "Nhận Kế Hoạch & Quà Tặng",
+        immediateAccess: "TRUY CẬP NGAY",
+        downloadPdf: "Tải Kế Hoạch PDF Miễn Phí",
+        downloadDesc: "Nhận kết quả chẩn đoán ngữ pháp cá nhân dưới dạng PDF ngay lập tức.",
+        downloadBtn: "Tải PDF",
+        freeReady: "Miễn Phí & Sẵn Sàng",
+        emailGift: "EMAIL & QUÀ TẶNG ĐẶC BIỆT",
+        onlyLeft: "Chỉ còn 100 suất!",
+        limitedOffer: "ƯU ĐÃI CÓ HẠN",
+        emailTitle: "Gửi Kết Quả & Nhận Quà 7 Ngày",
+        emailDesc: "Nhận bản tóm tắt và mã quà tặng học video không giới hạn.",
+        fullName: "Họ và Tên",
+        namePlaceholder: "Nhập tên của bạn",
+        emailAddr: "Địa chỉ Email",
+        emailPlaceholder: "name@example.com",
+        phoneNum: "Số điện thoại",
+        phonePlaceholder: "+84 901 234 567",
+        submitBtn: "Gửi Mã Quà Tặng",
+        sending: "Đang gửi...",
+        privacy: "Chúng tôi cam kết bảo mật thông tin của bạn.",
+        phoneError: "Vui lòng nhập số điện thoại hợp lệ"
+    },
+
     // Common
     common: {
         loading: "Đang tải...",

@@ -202,7 +202,7 @@ function Main() {
         studyPlan: weakTopics.map(t =>
           `Topic: ${t.name} | Book: ${t.bookReference} | Video: ${t.video ? t.video.url : 'N/A'}`
         ).join('\n'),
-        studyPlanLink: `${window.location.origin}${window.location.pathname}?topics=${encodeURIComponent(weakTopics.map(t => t.name).join(','))}`
+        studyPlanLink: `https://diepvic07.github.io/Diagnostic_grammar_test/?topics=${encodeURIComponent(weakTopics.map(t => t.name).join(','))}`
       };
 
       const success = await AnalyticsService.submitResults(payload);

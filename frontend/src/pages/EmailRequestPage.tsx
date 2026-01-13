@@ -37,7 +37,7 @@ export const EmailRequestPage: React.FC<EmailRequestPageProps> = ({ onBack, onSu
         // Basic Phone Validation (10-15 digits, allows +, -, space, brackets)
         const phoneRegex = /^[\d\+\-\s\(\)]{10,20}$/;
         if (formData.phone && !phoneRegex.test(formData.phone)) {
-            setError('Please enter a valid phone number');
+            setError(t('emailRequest.phoneError'));
             return;
         }
 
@@ -68,63 +68,63 @@ export const EmailRequestPage: React.FC<EmailRequestPageProps> = ({ onBack, onSu
                         <span className="material-symbols-outlined">arrow_back_ios</span>
                     </button>
                     <h2 className="text-lg font-bold flex-1 text-center pr-10">
-                        Get Your Plan & Gift Code
+                        {t('emailRequest.title')}
                     </h2>
                 </div>
 
                 <div className="w-full max-w-xl mx-auto px-5 pt-6 flex flex-col gap-8 pb-10">
                     {/* Immediate Access Card */}
                     <div className="w-full flex flex-col gap-3">
-                        <h3 className="text-xs font-bold text-gray-400 uppercase tracking-widest px-1">Immediate Access</h3>
+                        <h3 className="text-xs font-bold text-gray-400 uppercase tracking-widest px-1">{t('emailRequest.immediateAccess')}</h3>
                         <div className="access-card">
                             <div className="icon-container">
                                 <span className="material-symbols-outlined">print</span>
                             </div>
-                            <h4 className="text-lg font-bold text-[#111518]">Download Free PDF Plan</h4>
-                            <p className="text-sm text-gray-500 mt-2 mb-5">Get your personalized grammar diagnostic results as a PDF instantly.</p>
+                            <h4 className="text-lg font-bold text-[#111518]">{t('emailRequest.downloadPdf')}</h4>
+                            <p className="text-sm text-gray-500 mt-2 mb-5">{t('emailRequest.downloadDesc')}</p>
                             <button
                                 className="btn-pdf"
                                 onClick={() => window.print()}
                             >
                                 <span className="material-symbols-outlined text-xl">download</span>
-                                Download PDF
+                                {t('emailRequest.downloadBtn')}
                             </button>
-                            <span className="text-[10px] font-bold text-green-600 mt-3 uppercase tracking-wider">Free & Ready Now</span>
+                            <span className="text-[10px] font-bold text-green-600 mt-3 uppercase tracking-wider">{t('emailRequest.freeReady')}</span>
                         </div>
                     </div>
 
                     {/* Email & Gift Card */}
                     <div className="w-full flex flex-col gap-3">
                         <div className="flex items-center justify-between px-1">
-                            <h3 className="text-xs font-bold text-gray-400 uppercase tracking-widest">Email & Special Gift</h3>
+                            <h3 className="text-xs font-bold text-gray-400 uppercase tracking-widest">{t('emailRequest.emailGift')}</h3>
                             <div className="flex items-center gap-1 bg-red-100 px-2 py-0.5 rounded-full">
                                 <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
-                                <span className="text-[10px] font-bold text-red-600 uppercase">Only 100 left!</span>
+                                <span className="text-[10px] font-bold text-red-600 uppercase">{t('emailRequest.onlyLeft')}</span>
                             </div>
                         </div>
 
                         <div className="gift-card">
                             <div className="ribbon">
-                                LIMITED OFFER
+                                {t('emailRequest.limitedOffer')}
                             </div>
                             <div className="gift-hero">
                                 <div className="gift-icon-box">
                                     <span className="material-symbols-outlined">card_giftcard</span>
                                 </div>
                                 <div>
-                                    <h4 className="text-lg font-bold text-[#111518]">Email Results & Get 7-Day Gift</h4>
-                                    <p className="text-sm text-gray-500 mt-1">Receive your summary and a gift code for immersive video lessons.</p>
+                                    <h4 className="text-lg font-bold text-[#111518]">{t('emailRequest.emailTitle')}</h4>
+                                    <p className="text-sm text-gray-500 mt-1">{t('emailRequest.emailDesc')}</p>
                                 </div>
                             </div>
 
                             <form onSubmit={handleSubmit} className="flex flex-col gap-4">
                                 <div className="flex flex-col gap-1.5">
-                                    <label className="text-xs font-semibold text-gray-600 ml-1" htmlFor="fullname">Full Name</label>
+                                    <label className="text-xs font-semibold text-gray-600 ml-1" htmlFor="fullname">{t('emailRequest.fullName')}</label>
                                     <input
                                         id="fullname"
                                         type="text"
                                         required
-                                        placeholder="Enter your name"
+                                        placeholder={t('emailRequest.namePlaceholder')}
                                         className="ios-input"
                                         value={formData.name}
                                         onChange={(e) => setFormData(prev => ({ ...prev, name: e.target.value }))}
@@ -132,12 +132,12 @@ export const EmailRequestPage: React.FC<EmailRequestPageProps> = ({ onBack, onSu
                                 </div>
 
                                 <div className="flex flex-col gap-1.5">
-                                    <label className="text-xs font-semibold text-gray-600 ml-1" htmlFor="email">Email Address</label>
+                                    <label className="text-xs font-semibold text-gray-600 ml-1" htmlFor="email">{t('emailRequest.emailAddr')}</label>
                                     <input
                                         id="email"
                                         type="email"
                                         required
-                                        placeholder="name@example.com"
+                                        placeholder={t('emailRequest.emailPlaceholder')}
                                         className="ios-input"
                                         value={formData.email}
                                         onChange={(e) => setFormData(prev => ({ ...prev, email: e.target.value }))}
@@ -145,11 +145,11 @@ export const EmailRequestPage: React.FC<EmailRequestPageProps> = ({ onBack, onSu
                                 </div>
 
                                 <div className="flex flex-col gap-1.5">
-                                    <label className="text-xs font-semibold text-gray-600 ml-1" htmlFor="phone">Phone Number</label>
+                                    <label className="text-xs font-semibold text-gray-600 ml-1" htmlFor="phone">{t('emailRequest.phoneNum')}</label>
                                     <input
                                         id="phone"
                                         type="tel"
-                                        placeholder="+1 (555) 000-0000"
+                                        placeholder={t('emailRequest.phonePlaceholder')}
                                         className={`ios-input ${error ? 'border-red-500 focus:border-red-500 focus:shadow-none' : ''}`}
                                         value={formData.phone}
                                         onChange={(e) => {
@@ -166,10 +166,10 @@ export const EmailRequestPage: React.FC<EmailRequestPageProps> = ({ onBack, onSu
                                         disabled={isLoading}
                                         className="submit-btn"
                                     >
-                                        {isLoading ? 'Sending...' : 'Send My Gift Code'}
+                                        {isLoading ? t('emailRequest.sending') : t('emailRequest.submitBtn')}
                                         <span className="material-symbols-outlined text-xl">send</span>
                                     </button>
-                                    <p className="text-[10px] text-gray-400 text-center mt-4">We'll never share your details with third parties.</p>
+                                    <p className="text-[10px] text-gray-400 text-center mt-4">{t('emailRequest.privacy')}</p>
                                 </div>
                             </form>
                         </div>
