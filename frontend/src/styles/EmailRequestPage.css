@@ -187,6 +187,16 @@
 }
 
 @media print {
+
+    /* Ensure background colors/images print */
+    *,
+    *::before,
+    *::after {
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
+        color-adjust: exact !important;
+    }
+
     .screen-only {
         display: none !important;
     }
