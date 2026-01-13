@@ -2,7 +2,7 @@
 import questionsData from '../data/questions.json';
 import topicsData from '../data/topics.json';
 // Import from types.ts in parent directory since src/types/index.ts doesn't exist
-import type { Question, QuizResultsResponse } from '../types';
+import type { Question } from '../types';
 
 // Extended types for internal logic
 interface ExtendedQuestion extends Question {

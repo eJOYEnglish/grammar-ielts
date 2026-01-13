@@ -3,7 +3,7 @@
 import { LocalQuizLogic } from './localQuizLogic';
 
 export const api = {
-    startQuiz: async (language: string) => {
+    startQuiz: async (_language: string) => {
         // Simulate network delay
         await new Promise(resolve => setTimeout(resolve, 500));
         return LocalQuizLogic.startQuiz();
@@ -14,12 +14,12 @@ export const api = {
         return LocalQuizLogic.submitQuiz(sessionId, answers);
     },
 
-    getResults: async (sessionId: string, language: string) => {
+    getResults: async (sessionId: string, _language: string) => {
         await new Promise(resolve => setTimeout(resolve, 500));
         return LocalQuizLogic.getResults(sessionId);
     },
 
-    getStudyPlan: async (sessionId: string, language: string) => {
+    getStudyPlan: async (sessionId: string, _language: string) => {
         await new Promise(resolve => setTimeout(resolve, 500));
         return LocalQuizLogic.getStudyPlan(sessionId);
     }
