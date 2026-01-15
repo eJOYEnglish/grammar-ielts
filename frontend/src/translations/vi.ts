@@ -65,7 +65,8 @@ export const vi: Translation = {
         studyReferenceDetail: "Hướng dẫn ngữ pháp - {{topic}}",
         practiceOnEjoy: "LUYỆN TẬP TRÊN EJOY",
         practiceButton: "Luyện {{topic}} với eJOY",
-        continue: "Tiếp Tục"
+        continue: "Tiếp Tục",
+        continueButton: "Tiếp Tục"
     },
 
     // Email Success Page

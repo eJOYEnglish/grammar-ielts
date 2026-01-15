@@ -63,7 +63,8 @@ export const en = {
         studyReferenceDetail: "Grammar Guide - {{topic}}",
         practiceOnEjoy: "PRACTICE ON EJOY",
         practiceButton: "Practice {{topic}} with eJOY",
-        continue: "Continue"
+        continue: "Continue",
+        continueButton: "Continue"
     },
 
     // Email Success Page

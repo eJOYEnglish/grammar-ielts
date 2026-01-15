@@ -1,14 +1,17 @@
 import React from 'react';
-import '../styles/StudyPlanPage.css';
+
 import type { WeakTopic } from '../utils/scoring';
 import { useTranslation } from '../hooks/useTranslation';
 import { StudyPlanContent } from '../components/StudyPlanContent';
+// ...
 interface StudyPlanPageProps {
     weakTopics?: WeakTopic[];
+    userLevel?: number;
     onContinue?: () => void;
 }
 
-export const StudyPlanPage: React.FC<StudyPlanPageProps> = ({ weakTopics, onContinue }) => {
+export const StudyPlanPage: React.FC<StudyPlanPageProps> = ({ weakTopics, userLevel, onContinue }) => {
+    // ...
     const { t } = useTranslation();
 
     React.useEffect(() => {
@@ -16,31 +19,22 @@ export const StudyPlanPage: React.FC<StudyPlanPageProps> = ({ weakTopics, onCont
     }, []);
 
     return (
-        <div className="study-plan-page">
-            {/* Sticky Header with Blur */}
+        <div className="study-plan-container">
+            {/* Sticky Header */}
             <header className="study-plan-header">
-                <button className="btn-icon" aria-label={t('common.back')}>
+                <button className="header-btn" onClick={() => window.history.back()}>
                     <span className="material-symbols-outlined">arrow_back</span>
                 </button>
+                <h2 className="header-title">{t('studyPlan.title')}</h2>
 
-                <div className="share-button-wrapper">
-                    <button
-                        className="btn-icon"
-                        onClick={() => window.print()}
-                        title="Download PDF"
-                        style={{ marginRight: '8px' }}
-                    >
-                        <span className="material-symbols-outlined">print</span>
-                    </button>
-                </div>
             </header>
 
-            <StudyPlanContent weakTopics={weakTopics} />
+            <StudyPlanContent weakTopics={weakTopics} userLevel={userLevel} />
 
-            {/* Fixed Bottom Button with Gradient */}
+            {/* Fixed Footer */}
             <div className="study-plan-footer">
-                <button className="btn btn-primary btn-primary--large" onClick={onContinue}>
-                    {t('studyPlan.continue')}
+                <button className="primary-btn" onClick={onContinue}>
+                    {t('studyPlan.continueButton')}
                     <span className="material-symbols-outlined">arrow_forward</span>
                 </button>
             </div>

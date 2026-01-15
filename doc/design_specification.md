@@ -2086,3 +2086,103 @@ The following emojis are used throughout the UI:
 ---
 
 **End of Design Specification**
+
+### 2.5 Study Plan Page
+
+**Purpose**: Display the personalized learning path with specific book references and video lessons.
+
+#### ASCII Layout
+```
+┌─────────────────────────────────────────────────────┐
+│  ←                Study Plan                 ⤴     │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│   Your Personalized                                 │
+│   Study Plan                                        │
+│                                                     │
+│   Focus on these topics to level up...              │
+│                                                     │
+│  ┌──────────────┐  ┌──────────────┐                 │
+│  │ Recommended  │  │ Interactive  │                 │
+│  │ Grammar for  │  │ Practice on  │                 │
+│  │ IELTS        │  │ eJOY         │                 │
+│  └──────────────┘  └──────────────┘                 │
+│                                                     │
+│   WEAK GRAMMAR TOPICS                               │
+│                                                     │
+│  ┌───────────────────────────────────────────────┐  │
+│  │ Future Perfect                                │  │
+│  ├───────────────────────────────────────────────┤  │
+│  │ 📖 STUDY REFERENCE                            │  │
+│  │    Grammar for IELTS - Unit 14                │  │
+│  │                                               │  │
+│  │ 📺 PRACTICE ON EJOY                           │  │
+│  │    Watch Lesson: Future Perfect... [B2]       │  │
+│  └───────────────────────────────────────────────┘  │
+│                                                     │
+│  ┌───────────────────────────────────────────────┐  │
+│  │ Passive Voice                                 │  │
+│  ├───────────────────────────────────────────────┤  │
+│  │ ...                                           │  │
+│  └───────────────────────────────────────────────┘  │
+│                                                     │
+│         ┌─────────────────────────────┐            │
+│         │    Continue →               │            │
+│         └─────────────────────────────┘            │
+└─────────────────────────────────────────────────────┘
+```
+
+#### Specifications
+
+**Header**
+- Title: "Study Plan" (Centered, 18px Bold)
+- Back Button: Left, Circle 48px
+- Share Button: Right, Circle 48px
+
+**Page Title**
+- Text: "Your Personalized Study Plan"
+- H1 Style: 28px Bold, Tracking-tight
+- Color: `#111518` (Light), `#FFFFFF` (Dark)
+- Subtext: "Focus on these topics..." (16px, Text-secondary)
+
+**Recommendation Cards Grid**
+- Grid: 2 Columns, Gap 16px
+- Card Height: 150px
+- Radius: 16px
+- **Card 1 (Book)**:
+    - Image: Book Cover
+    - Overlay: Gradient Black/80 to Transparent
+    - Icon: `menu_book` (White on White/20 blur pill)
+    - Label: "RECOMMENDED" (8px Bold Uppercase White/90)
+    - Title: "Grammar for IELTS" (14px Bold White)
+- **Card 2 (eJOY)**:
+    - Image: Web Interface
+    - Overlay: Gradient Primary/80 to Transparent
+    - Icon: `smart_display` (White on Primary pill)
+    - Label: "INTERACTIVE" (8px Bold Uppercase White/90)
+    - Title: "Practice on eJOY" (14px Bold White)
+
+**Topic List**
+- Section Header: "WEAK GRAMMAR TOPICS" (14px Bold Uppercase Opacity-80)
+- Card Style:
+    - Background: `#FFFFFF` (Light), `#1e2a30` (Dark)
+    - Radius: 16px (2xl)
+    - Padding: 20px
+    - Shadow: Soft
+    - Border: 1px solid gray-100
+
+- **Topic Name**:
+    - size: 18px Bold
+    - Border-bottom: 1px solid gray-50
+    - Padding-bottom: 12px
+
+- **Resource Rows**:
+    - Gap: 16px (Vertical)
+    - **Icon**: 40px Circle
+        - Book: Blue-500 bg Blue-50
+        - Video: Orange-500 bg Orange-50
+    - **Label**: 10px Bold Uppercase text-secondary
+    - **Content**: 14px Semibold
+    - **Links**: Primary color, hover underline
+    - **Badges**:
+        - Level (e.g., B2): Blue-100 Text-Blue-800, 10px Bold Pill.

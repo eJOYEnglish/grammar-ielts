@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import './styles/global.css'
 import './styles/components.css'
+import './styles/study-plan.css'
 import { LandingPage } from './pages/LandingPage'
 import { QuizPage } from './pages/QuizPage'
 import { ResultsPage } from './pages/ResultsPage'
@@ -19,19 +20,26 @@ import { EmailFailedPage } from './pages/EmailFailedPage';
 import { AnalyticsService } from './services/AnalyticsService';
 
 // Type assertion for the imported JSON
-const grammarResources = grammarResourcesRaw as Record<string, { bookDetails: string; videoUrl?: string; videoTitle?: string }>;
+// Type assertion for the imported JSON
+const grammarResources = grammarResourcesRaw as Record<string, {
+  bookDetails: string;
+  videos?: Array<{ title: string; url: string; level: number }>;
+}>;
 
 const identifyWeakTopicsDetailed = (questions: any[]) => {
   const weakAreas = identifyWeakAreas(questions);
   return weakAreas.map(area => {
     const resource = grammarResources[area.topicName];
+    // Pick the first video as default for the email summary
+    const defaultVideo = resource?.videos && resource.videos.length > 0 ? resource.videos[0] : null;
+
     return {
       name: area.topicName,
       priority: "High Priority", // Defaulting to high for now
       bookReference: resource?.bookDetails || `Review ${area.topicName}`,
-      video: resource?.videoUrl ? {
-        title: resource.videoTitle || `Watch: ${area.topicName}`,
-        url: resource.videoUrl
+      video: defaultVideo ? {
+        title: defaultVideo.title || `Watch: ${area.topicName}`,
+        url: defaultVideo.url
       } : null
     };
   });
@@ -244,9 +252,21 @@ function Main() {
           />
         );
       case 'study-plan':
+        // Simple level estimation: 1-7 based on percentage
+        // < 30% -> 1
+        // < 45% -> 2
+        // < 60% -> 3
+        // < 70% -> 4
+        // < 80% -> 5
+        // < 90% -> 6
+        // >= 90% -> 7
+        // Or simpler linear mapping: Math.ceil(percentage / 100 * 7)
+        const estimatedLevel = quizResults ? Math.max(1, Math.ceil(quizResults.percentage / 100 * 7)) : 3;
+
         return (
           <StudyPlanPage
             weakTopics={currentWeakTopics}
+            userLevel={estimatedLevel}
             onContinue={() => setCurrentPage('email-request')}
           />
         );

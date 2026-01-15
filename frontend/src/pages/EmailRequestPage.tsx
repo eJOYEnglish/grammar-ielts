@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import '../styles/EmailRequestPage.css';
-import '../styles/StudyPlanPage.css'; // Import styles for StudyPlanContent
+
 import { useTranslation } from '../hooks/useTranslation';
 import { StudyPlanContent } from '../components/StudyPlanContent';
 import type { WeakTopic } from '../utils/scoring';
@@ -49,9 +49,7 @@ export const EmailRequestPage: React.FC<EmailRequestPageProps> = ({ onBack, onSu
         <div className="email-request-page">
             {/* Hidden Printable Content */}
             <div className="print-only">
-                <div className="print-header">
-                    <h1 className="print-title">{t('studyPlan.personalizedTitle')}</h1>
-                </div>
+
                 <StudyPlanContent weakTopics={weakTopics} />
             </div>
 

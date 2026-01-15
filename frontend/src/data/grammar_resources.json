@@ -1,125 +1,3201 @@
 {
   "Present tenses": {
     "bookDetails": "Unit 1: Present tenses - Page 1",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/7199",
-    "videoTitle": "Feeling Blue"
+    "videos": [
+      {
+        "title": "My Dog Ben - HooplaKidz",
+        "url": "https://ejoy-english.com/epic/videoEpic/57737",
+        "level": 1
+      },
+      {
+        "title": "Feeling Blue",
+        "url": "https://ejoy-english.com/epic/videoEpic/7199",
+        "level": 1
+      },
+      {
+        "title": "What Are They Like?",
+        "url": "https://ejoy-english.com/epic/videoEpic/178",
+        "level": 1
+      },
+      {
+        "title": "In The Morning | Adverbs of Frequency",
+        "url": "https://ejoy-english.com/epic/videoEpic/59356",
+        "level": 1
+      },
+      {
+        "title": "Months & Holidays",
+        "url": "https://ejoy-english.com/epic/videoEpic/323",
+        "level": 1
+      },
+      {
+        "title": "Yogi Bear - Introduce Myself",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_737",
+        "level": 2
+      },
+      {
+        "title": "Ruby Sparks - Have We Met?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_568",
+        "level": 2
+      },
+      {
+        "title": "James Bond 007 - Bond 50",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_563",
+        "level": 2
+      },
+      {
+        "title": "Talking about hobbies 1 - Meet 101 year old",
+        "url": "https://ejoy-english.com/epic/videoEpic/18480_p1",
+        "level": 2
+      },
+      {
+        "title": "Asking about jobs - Meet A Firefighter",
+        "url": "https://ejoy-english.com/epic/videoEpic/44425_p1",
+        "level": 2
+      },
+      {
+        "title": "Talking About Feelings",
+        "url": "https://ejoy-english.com/epic/videoEpic/3357",
+        "level": 2
+      },
+      {
+        "title": "Kids Draw And Describe Their Moms",
+        "url": "https://ejoy-english.com/epic/videoEpic/13656",
+        "level": 2
+      },
+      {
+        "title": "English Adverbs of Frequency - Learn how they work with Carter the dog.",
+        "url": "https://ejoy-english.com/epic/videoEpic/59343",
+        "level": 2
+      },
+      {
+        "title": "One Republic - Secrets (The Sorcerer's Apprentice)",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1074",
+        "level": 3
+      },
+      {
+        "title": "Eliza Doolittle - Skinny Genes",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1069",
+        "level": 3
+      },
+      {
+        "title": "Duran Duran - Hungry Like The Wolf",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1054",
+        "level": 3
+      },
+      {
+        "title": "Shaun The Sheep Movie - Feels Like Summer",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_955",
+        "level": 3
+      },
+      {
+        "title": "The Flash - Team Flash",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_851",
+        "level": 3
+      },
+      {
+        "title": "Tangled - Reluctant Alliance",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_751",
+        "level": 3
+      },
+      {
+        "title": "Beginners - Fatherly Advice",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_670",
+        "level": 3
+      },
+      {
+        "title": "Hugo - Big Machine",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_636",
+        "level": 3
+      },
+      {
+        "title": "The Twilight Saga - New Moon - I Know What You Are",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_635",
+        "level": 3
+      },
+      {
+        "title": "Take This Waltz - Rickshaw Ride",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_576",
+        "level": 3
+      },
+      {
+        "title": "Dawn Of The Planet Of The Apes - Koba Kills",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_435",
+        "level": 3
+      },
+      {
+        "title": "American Sniper - Be Human Again",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_395",
+        "level": 3
+      },
+      {
+        "title": "Focus - This Is A Game Of Focus",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_386",
+        "level": 3
+      },
+      {
+        "title": "Poltergeist - What Is A Poltergeist?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_358",
+        "level": 3
+      },
+      {
+        "title": "Nocturnal Animals - I Loved Him",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_216",
+        "level": 3
+      },
+      {
+        "title": "The Shawshank Redemption - Breakout",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_132",
+        "level": 3
+      },
+      {
+        "title": "A Bad Moms Christmas - Who's Ready",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_107",
+        "level": 3
+      },
+      {
+        "title": "Phantom Thread - Interruption",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_83",
+        "level": 3
+      },
+      {
+        "title": "Kids making assumptions about each other",
+        "url": "https://ejoy-english.com/epic/videoEpic/59380",
+        "level": 3
+      },
+      {
+        "title": "Talk about hobbies",
+        "url": "https://ejoy-english.com/epic/videoEpic/4380",
+        "level": 3
+      },
+      {
+        "title": "Burnt  - Michelin Inspectors",
+        "url": "https://ejoy-english.com/epic/videoEpic/58923",
+        "level": 3
+      },
+      {
+        "title": "Deus Ex Human Revolution - TGS 2010 Preview",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1361",
+        "level": 4
+      },
+      {
+        "title": "Visit Ireland - Dublin Town",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1338",
+        "level": 4
+      },
+      {
+        "title": "John Mayer ft Katy Perry - Who You Love",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_970",
+        "level": 4
+      },
+      {
+        "title": "Shutter Island - A Sense Of Calm",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_803",
+        "level": 4
+      },
+      {
+        "title": "Pirates of the Caribbean 4 - Mutiny",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_684",
+        "level": 4
+      },
+      {
+        "title": "Brave - The Suitors",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_569",
+        "level": 4
+      },
+      {
+        "title": "The Hangover Part 2 - I Think It Happened Again",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_553",
+        "level": 4
+      },
+      {
+        "title": "The Watch - Orb",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_548",
+        "level": 4
+      },
+      {
+        "title": "Parental Guidance - Special Instructions",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_533",
+        "level": 4
+      },
+      {
+        "title": "Silver Linings Playbook - Apologize",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_531",
+        "level": 4
+      },
+      {
+        "title": "When Harry Met Sally - I Love...",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_450",
+        "level": 4
+      },
+      {
+        "title": "Speed Dating Prank | 2015 Ford Mustang | Ford.com",
+        "url": "https://ejoy-english.com/epic/videoEpic/10775",
+        "level": 4
+      },
+      {
+        "title": "Dating American and British Boys",
+        "url": "https://ejoy-english.com/epic/videoEpic/3080",
+        "level": 4
+      }
+    ]
   },
   "Past tenses 1": {
     "bookDetails": "Unit 2: Past tenses 1 - Page 8",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/nocturnal-animals/i-loved-him/ep_216",
-    "videoTitle": "Comparing the Past and the Present"
+    "videos": [
+      {
+        "title": "My Dog Ben - HooplaKidz",
+        "url": "https://ejoy-english.com/epic/videoEpic/57737",
+        "level": 1
+      },
+      {
+        "title": "Feeling Blue",
+        "url": "https://ejoy-english.com/epic/videoEpic/7199",
+        "level": 1
+      },
+      {
+        "title": "What Are They Like?",
+        "url": "https://ejoy-english.com/epic/videoEpic/178",
+        "level": 1
+      },
+      {
+        "title": "In The Morning | Adverbs of Frequency",
+        "url": "https://ejoy-english.com/epic/videoEpic/59356",
+        "level": 1
+      },
+      {
+        "title": "Months & Holidays",
+        "url": "https://ejoy-english.com/epic/videoEpic/323",
+        "level": 1
+      },
+      {
+        "title": "Yogi Bear - Introduce Myself",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_737",
+        "level": 2
+      },
+      {
+        "title": "Ruby Sparks - Have We Met?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_568",
+        "level": 2
+      },
+      {
+        "title": "James Bond 007 - Bond 50",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_563",
+        "level": 2
+      },
+      {
+        "title": "Talking about hobbies 1 - Meet 101 year old",
+        "url": "https://ejoy-english.com/epic/videoEpic/18480_p1",
+        "level": 2
+      },
+      {
+        "title": "Asking about jobs - Meet A Firefighter",
+        "url": "https://ejoy-english.com/epic/videoEpic/44425_p1",
+        "level": 2
+      },
+      {
+        "title": "Talking About Feelings",
+        "url": "https://ejoy-english.com/epic/videoEpic/3357",
+        "level": 2
+      },
+      {
+        "title": "Kids Draw And Describe Their Moms",
+        "url": "https://ejoy-english.com/epic/videoEpic/13656",
+        "level": 2
+      },
+      {
+        "title": "English Adverbs of Frequency - Learn how they work with Carter the dog.",
+        "url": "https://ejoy-english.com/epic/videoEpic/59343",
+        "level": 2
+      },
+      {
+        "title": "One Republic - Secrets (The Sorcerer's Apprentice)",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1074",
+        "level": 3
+      },
+      {
+        "title": "Eliza Doolittle - Skinny Genes",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1069",
+        "level": 3
+      },
+      {
+        "title": "Duran Duran - Hungry Like The Wolf",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1054",
+        "level": 3
+      },
+      {
+        "title": "Shaun The Sheep Movie - Feels Like Summer",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_955",
+        "level": 3
+      },
+      {
+        "title": "The Flash - Team Flash",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_851",
+        "level": 3
+      },
+      {
+        "title": "Tangled - Reluctant Alliance",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_751",
+        "level": 3
+      },
+      {
+        "title": "Beginners - Fatherly Advice",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_670",
+        "level": 3
+      },
+      {
+        "title": "Hugo - Big Machine",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_636",
+        "level": 3
+      },
+      {
+        "title": "The Twilight Saga - New Moon - I Know What You Are",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_635",
+        "level": 3
+      },
+      {
+        "title": "Take This Waltz - Rickshaw Ride",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_576",
+        "level": 3
+      },
+      {
+        "title": "Dawn Of The Planet Of The Apes - Koba Kills",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_435",
+        "level": 3
+      },
+      {
+        "title": "American Sniper - Be Human Again",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_395",
+        "level": 3
+      },
+      {
+        "title": "Focus - This Is A Game Of Focus",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_386",
+        "level": 3
+      },
+      {
+        "title": "Poltergeist - What Is A Poltergeist?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_358",
+        "level": 3
+      },
+      {
+        "title": "Nocturnal Animals - I Loved Him",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_216",
+        "level": 3
+      },
+      {
+        "title": "The Shawshank Redemption - Breakout",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_132",
+        "level": 3
+      },
+      {
+        "title": "A Bad Moms Christmas - Who's Ready",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_107",
+        "level": 3
+      },
+      {
+        "title": "Phantom Thread - Interruption",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_83",
+        "level": 3
+      },
+      {
+        "title": "Kids making assumptions about each other",
+        "url": "https://ejoy-english.com/epic/videoEpic/59380",
+        "level": 3
+      },
+      {
+        "title": "Talk about hobbies",
+        "url": "https://ejoy-english.com/epic/videoEpic/4380",
+        "level": 3
+      },
+      {
+        "title": "Burnt  - Michelin Inspectors",
+        "url": "https://ejoy-english.com/epic/videoEpic/58923",
+        "level": 3
+      },
+      {
+        "title": "Deus Ex Human Revolution - TGS 2010 Preview",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1361",
+        "level": 4
+      },
+      {
+        "title": "Visit Ireland - Dublin Town",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1338",
+        "level": 4
+      },
+      {
+        "title": "John Mayer ft Katy Perry - Who You Love",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_970",
+        "level": 4
+      },
+      {
+        "title": "Shutter Island - A Sense Of Calm",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_803",
+        "level": 4
+      },
+      {
+        "title": "Pirates of the Caribbean 4 - Mutiny",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_684",
+        "level": 4
+      },
+      {
+        "title": "Brave - The Suitors",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_569",
+        "level": 4
+      },
+      {
+        "title": "The Hangover Part 2 - I Think It Happened Again",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_553",
+        "level": 4
+      },
+      {
+        "title": "The Watch - Orb",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_548",
+        "level": 4
+      },
+      {
+        "title": "Parental Guidance - Special Instructions",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_533",
+        "level": 4
+      },
+      {
+        "title": "Silver Linings Playbook - Apologize",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_531",
+        "level": 4
+      },
+      {
+        "title": "When Harry Met Sally - I Love...",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_450",
+        "level": 4
+      },
+      {
+        "title": "Speed Dating Prank | 2015 Ford Mustang | Ford.com",
+        "url": "https://ejoy-english.com/epic/videoEpic/10775",
+        "level": 4
+      },
+      {
+        "title": "Dating American and British Boys",
+        "url": "https://ejoy-english.com/epic/videoEpic/3080",
+        "level": 4
+      }
+    ]
   },
   "Present perfect": {
     "bookDetails": "Unit 3: Present perfect - Page 18",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/wiz-khalifa-ft-charlie-puth/see-you-again/ep_956",
-    "videoTitle": "Wiz Khalifa ft Charlie Puth - See You Again"
+    "videos": [
+      {
+        "title": "Wiz Khalifa ft Charlie Puth - See You Again",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_956",
+        "level": 2
+      },
+      {
+        "title": "Sesame Street: Outdoors with Jason Mraz",
+        "url": "https://ejoy-english.com/epic/videoEpic/9020",
+        "level": 2
+      },
+      {
+        "title": "Lady Antebellum - Need You Now",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1043",
+        "level": 3
+      },
+      {
+        "title": "Train - Save Me San Francisco",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1008",
+        "level": 3
+      },
+      {
+        "title": "Dexter - Reliable Parents",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_907",
+        "level": 3
+      },
+      {
+        "title": "Argo - Bad Options",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_549",
+        "level": 3
+      },
+      {
+        "title": "Red 2 - You've Heard Of Me Now",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_491",
+        "level": 3
+      },
+      {
+        "title": "The Book Of Life - Land Of The Remembered",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_412",
+        "level": 3
+      },
+      {
+        "title": "The Grand Budapest Hotel - The Police Are Here",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_391",
+        "level": 3
+      },
+      {
+        "title": "Love, Simon - I'm Just Like You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_66",
+        "level": 3
+      },
+      {
+        "title": "A Star Is Born - One Reason",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_16",
+        "level": 3
+      },
+      {
+        "title": "Creed II - Taking the Fight",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1",
+        "level": 3
+      },
+      {
+        "title": "Interview: Languages",
+        "url": "https://ejoy-english.com/epic/videoEpic/3657",
+        "level": 3
+      },
+      {
+        "title": "Illness",
+        "url": "https://ejoy-english.com/epic/videoEpic/4369",
+        "level": 3
+      },
+      {
+        "title": "FIFA World Cup 2018 Russia - Colors",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1096",
+        "level": 4
+      },
+      {
+        "title": "Ariana Grande - Break Free ft. Zedd",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_927",
+        "level": 4
+      },
+      {
+        "title": "The Office - Big Keith's Appraisal",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_876",
+        "level": 4
+      },
+      {
+        "title": "Tripp and Tyler - A Conference Call in Real Life",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_836",
+        "level": 4
+      },
+      {
+        "title": "Clash Of The Titans - Have You Seen What's Happening?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_799",
+        "level": 4
+      },
+      {
+        "title": "The King's Speech - Enemy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_739",
+        "level": 4
+      },
+      {
+        "title": "Priest - Bringer of Tide",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_686",
+        "level": 4
+      },
+      {
+        "title": "Cars 2 - British Intelligence",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_673",
+        "level": 4
+      },
+      {
+        "title": "The Muppets - Showdown",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_626",
+        "level": 4
+      },
+      {
+        "title": "The Descendants - Gotten My Act Together",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_614",
+        "level": 4
+      },
+      {
+        "title": "The Art Of Getting By - Cutting School",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_573",
+        "level": 4
+      },
+      {
+        "title": "The Secret Life Of Walter Mitty - Ground Control",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_465",
+        "level": 4
+      },
+      {
+        "title": "Transformers - Age Of Extinction - Where Is Optimus Prime?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_436",
+        "level": 4
+      },
+      {
+        "title": "Guardians Of The Galaxy - Galaxy Getaways",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_427",
+        "level": 4
+      },
+      {
+        "title": "Inherent Vice - What's the Beef Here?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_384",
+        "level": 4
+      },
+      {
+        "title": "Cinderella - I Thought Breakfast Was Ready",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_375",
+        "level": 4
+      },
+      {
+        "title": "Far From The Madding Crowd - Bailiff Pennyways",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_356",
+        "level": 4
+      },
+      {
+        "title": "Absolutely Anything - Kat And Rob",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_342",
+        "level": 4
+      },
+      {
+        "title": "Hitman Agent 47 - Sniper",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_341",
+        "level": 4
+      },
+      {
+        "title": "Okja - A Message From Lucy Mirando",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_143",
+        "level": 4
+      },
+      {
+        "title": "Schindler's List - Miscalibrating the Machines",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_110",
+        "level": 4
+      },
+      {
+        "title": "The Foreigner - You Will Change Your Mind",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_109",
+        "level": 4
+      },
+      {
+        "title": "The Pursuit of Happyness (2006)",
+        "url": "https://ejoy-english.com/epic/videoEpic/8528",
+        "level": 4
+      },
+      {
+        "title": "Transformers: Dark of the Moon - The Duchess Clip",
+        "url": "https://ejoy-english.com/epic/videoEpic/58420",
+        "level": 4
+      },
+      {
+        "title": "Is there a limit to technological progress? - Clment Vidal",
+        "url": "https://ejoy-english.com/epic/videoEpic/35579",
+        "level": 5
+      },
+      {
+        "title": "Lonely Planet - Venice Beach in Los Angeles",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1352",
+        "level": 5
+      },
+      {
+        "title": "Associated Press - Facebook Hits 500 Million Users",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1305",
+        "level": 5
+      },
+      {
+        "title": "Gary Rhodes - Cheese and Vegetable Quiche",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1238",
+        "level": 5
+      },
+      {
+        "title": "BBC News - Who Is Emmanuel Macron?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1124",
+        "level": 5
+      },
+      {
+        "title": "CNN - Ransomware \"WannaCry\" Attack Explained",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1123",
+        "level": 5
+      },
+      {
+        "title": "OMI - Cheerleader",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_961",
+        "level": 5
+      },
+      {
+        "title": "Life Of Pi - The Tiger",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_538",
+        "level": 5
+      },
+      {
+        "title": "Midnight Sun - What Should I Have Said?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_45",
+        "level": 5
+      },
+      {
+        "title": "Dawndotcom - Rolling Stones Celebrate 50th Anniversary",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1241",
+        "level": 6
+      },
+      {
+        "title": "Fox 5 Atlanta - Presidential Debate Highlights",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1143",
+        "level": 6
+      },
+      {
+        "title": "Wall Street Journal - Donald Trump Wins U.S. Presidency",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1140",
+        "level": 6
+      },
+      {
+        "title": "A Fluffy Beginning",
+        "url": "https://ejoy-english.com/epic/videoEpic/3661",
+        "level": 6
+      },
+      {
+        "title": "You Got It Booking Right",
+        "url": "https://ejoy-english.com/epic/videoEpic/9179",
+        "level": 6
+      },
+      {
+        "title": "Exam preparation",
+        "url": "https://ejoy-english.com/epic/videoEpic/59293",
+        "level": 6
+      },
+      {
+        "title": "How to Make the Best Frappe",
+        "url": "https://ejoy-english.com/epic/videoEpic/2071",
+        "level": 7
+      },
+      {
+        "title": "Stephen Hawking",
+        "url": "https://ejoy-english.com/epic/videoEpic/10290",
+        "level": 7
+      }
+    ]
   },
   "Past tenses 2": {
     "bookDetails": "Unit 4: Past tenses 2 - Page 27",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/country-strong/first-time/ep_691",
-    "videoTitle": "Country Strong - First Time"
+    "videos": [
+      {
+        "title": "Country Strong - First Time",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_691",
+        "level": 3
+      },
+      {
+        "title": "The Railway Man - Are You Romantic?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_438",
+        "level": 3
+      },
+      {
+        "title": "Renting an Apartment | Federal Trade Commission",
+        "url": "https://ejoy-english.com/epic/videoEpic/60458",
+        "level": 4
+      },
+      {
+        "title": "Sherlock Holmes - A Game Of Shadows - The Letter",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_624",
+        "level": 4
+      },
+      {
+        "title": "Underworld Awakening - Exclusive Clip",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_617",
+        "level": 4
+      },
+      {
+        "title": "The Two Faces Of January - The Parthenon",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_437",
+        "level": 4
+      },
+      {
+        "title": "The Avengers - Age Of Ultron - The Endgame",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_372",
+        "level": 4
+      },
+      {
+        "title": "Game Night - Do We Follow Him?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_76",
+        "level": 4
+      },
+      {
+        "title": "The History of English: Internet English",
+        "url": "https://ejoy-english.com/epic/videoEpic/3480",
+        "level": 5
+      },
+      {
+        "title": "History Of English - Anglo-Saxon",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1268",
+        "level": 5
+      },
+      {
+        "title": "History Of English - Internet English",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1260",
+        "level": 5
+      },
+      {
+        "title": "ThisIsHomeVideo - The Credit Crunch Explained",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1252",
+        "level": 5
+      },
+      {
+        "title": "AP News - First Chinese Woman Astronaut Back From Space",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1234",
+        "level": 5
+      },
+      {
+        "title": "ITN News - Egyptian President Morsi Ousted",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1197",
+        "level": 5
+      },
+      {
+        "title": "CNN - Jeff Bezos On Customer Focus",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1190",
+        "level": 5
+      },
+      {
+        "title": "Trevor Noah on Nelson Mandela's Sense of Humor",
+        "url": "https://ejoy-english.com/epic/videoEpic/55463",
+        "level": 6
+      },
+      {
+        "title": "CNN - Go Behind the Scenes With Novak Djokovic",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1248",
+        "level": 6
+      },
+      {
+        "title": "A Holiday Rich in History",
+        "url": "https://ejoy-english.com/epic/videoEpic/4951",
+        "level": 7
+      }
+    ]
   },
   "Future 1": {
     "bookDetails": "Unit 5: Future 1 - Page 38",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/59366",
-    "videoTitle": "Let's Go Out"
+    "videos": [
+      {
+        "title": "How is the Weather Today?",
+        "url": "https://ejoy-english.com/epic/videoEpic/5222",
+        "level": 2
+      },
+      {
+        "title": "Clash Of Clans - Clash of Clans: Revenge",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1181",
+        "level": 2
+      },
+      {
+        "title": "Despicable Me - Ground Rules",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_168",
+        "level": 2
+      },
+      {
+        "title": "Let's Go Out",
+        "url": "https://ejoy-english.com/epic/videoEpic/59366",
+        "level": 2
+      },
+      {
+        "title": "Tomorrow",
+        "url": "https://ejoy-english.com/epic/videoEpic/335",
+        "level": 2
+      },
+      {
+        "title": "Making Travel Plans",
+        "url": "https://ejoy-english.com/epic/videoEpic/9382",
+        "level": 2
+      },
+      {
+        "title": "Rio 2 - What Is Love? feat. Janelle Monáe",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_973",
+        "level": 3
+      },
+      {
+        "title": "The Bad Lieutenant - Port of Call New Orleans - Get Wet",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_808",
+        "level": 3
+      },
+      {
+        "title": "Fantastic Beasts and Where to Find Them - Strudel",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_212",
+        "level": 3
+      },
+      {
+        "title": "Ready Player One - The Prize Awaits",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_61",
+        "level": 3
+      },
+      {
+        "title": "The Spy Who Dumped Me - We're Going to Europe",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_34",
+        "level": 3
+      },
+      {
+        "title": "Ellen's Favorite Moments: BFF Jennifer Aniston Is Sweeter Than Ever",
+        "url": "https://ejoy-english.com/epic/videoEpic/43939",
+        "level": 3
+      },
+      {
+        "title": "Diablo III - Black Soulstone",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1364",
+        "level": 4
+      },
+      {
+        "title": "Muse - Uprising",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1075",
+        "level": 4
+      },
+      {
+        "title": "Red Hot Chili Peppers - Can't Stop",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1010",
+        "level": 4
+      },
+      {
+        "title": "Mariah Carey - All I Want For Christmas Is You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_986",
+        "level": 4
+      },
+      {
+        "title": "Pink Floyd - Money",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_972",
+        "level": 4
+      },
+      {
+        "title": "Knight And Day - Plane Flight",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_789",
+        "level": 4
+      },
+      {
+        "title": "Made in Dagenham - Fiery Redhead",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_721",
+        "level": 4
+      },
+      {
+        "title": "Chariots Of Fire - Running Around The Courtyard",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_583",
+        "level": 4
+      },
+      {
+        "title": "The Twilight Saga - Breaking Dawn - Acting Human",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_544",
+        "level": 4
+      },
+      {
+        "title": "Now You See Me - We're Going To Rob A Bank",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_494",
+        "level": 4
+      },
+      {
+        "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day - I'm Going To Make You VP",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_415",
+        "level": 4
+      },
+      {
+        "title": "Inside Out - Pizza",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_354",
+        "level": 4
+      },
+      {
+        "title": "The Lobster - Parrot",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_328",
+        "level": 4
+      },
+      {
+        "title": "Murder on the Orient Express - Some Men",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_106",
+        "level": 4
+      },
+      {
+        "title": "Braveheart - Men Don't Follow Titles",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_62",
+        "level": 4
+      },
+      {
+        "title": "Failed New Years Resolutions",
+        "url": "https://ejoy-english.com/epic/videoEpic/4020",
+        "level": 5
+      },
+      {
+        "title": "Howcast - How to Determine a Breakeven Point",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1177",
+        "level": 5
+      },
+      {
+        "title": "Black Eyed Peas - I Gotta Feeling",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1079",
+        "level": 5
+      },
+      {
+        "title": "Drake - Take Care - featuring Rihanna",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_947",
+        "level": 5
+      },
+      {
+        "title": "Game Of Thrones - A Son",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_903",
+        "level": 5
+      },
+      {
+        "title": "The Hobbit - The Desolation of Smaug - It's Our Fight",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_469",
+        "level": 5
+      },
+      {
+        "title": "Eminem - Not Afraid",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1067",
+        "level": 6
+      },
+      {
+        "title": "Bruno Mars - That's What I Like",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_928",
+        "level": 6
+      }
+    ]
   },
   "Future 2": {
     "bookDetails": "Unit 6: Future 2 - Page 48",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/16865_p1",
-    "videoTitle": "Top Big Bang Theory Moments"
+    "videos": [
+      {
+        "title": "Top Big Bang Theory Moments",
+        "url": "https://ejoy-english.com/epic/videoEpic/16865_p1",
+        "level": 7
+      }
+    ]
   },
   "Countable and uncountable nouns": {
     "bookDetails": "Unit 7: Countable and uncountable nouns - Page 55",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/2638",
-    "videoTitle": "I Am a Flower"
+    "videos": [
+      {
+        "title": "Steve's Day in the Park",
+        "url": "https://ejoy-english.com/epic/videoEpic/60299",
+        "level": 1
+      },
+      {
+        "title": "iPhone: Shazam",
+        "url": "https://ejoy-english.com/epic/videoEpic/7091",
+        "level": 1
+      },
+      {
+        "title": "Five Senses Song | Song for Kids",
+        "url": "https://ejoy-english.com/epic/videoEpic/9042",
+        "level": 1
+      },
+      {
+        "title": "I Am a Flower",
+        "url": "https://ejoy-english.com/epic/videoEpic/2638",
+        "level": 2
+      },
+      {
+        "title": "The Founder - Drive Thru",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_21",
+        "level": 2
+      },
+      {
+        "title": "War Horse - Lease Him",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_623",
+        "level": 3
+      },
+      {
+        "title": "Sicario - Bridge",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_335",
+        "level": 3
+      },
+      {
+        "title": "Assassin's Creed - Enter The Animus",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_203",
+        "level": 3
+      },
+      {
+        "title": "The Snowman - Katrine and Arve",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_112",
+        "level": 3
+      },
+      {
+        "title": "I Feel Pretty - Don't Chicken Out",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_56",
+        "level": 3
+      },
+      {
+        "title": "Parent Teacher Meeting",
+        "url": "https://ejoy-english.com/epic/videoEpic/59959",
+        "level": 3
+      },
+      {
+        "title": "How to Follow a Healthy Vegetarian Diet | Superfoods Guide",
+        "url": "https://ejoy-english.com/epic/videoEpic/8471",
+        "level": 3
+      },
+      {
+        "title": "Business Skills - Mentoring Others",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1188",
+        "level": 4
+      },
+      {
+        "title": "Downton Abbey - A Job?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_895",
+        "level": 4
+      },
+      {
+        "title": "The Great Gatsby - One More Question",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_506",
+        "level": 4
+      },
+      {
+        "title": "ClevverMovies - Record Screens For Dark Knight Rises",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1243",
+        "level": 5
+      },
+      {
+        "title": "National Geographic - Weird Fish Marine Reserve",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1227",
+        "level": 5
+      },
+      {
+        "title": "National Geographic - World's Deadliest - Hammerhead Sharks",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1226",
+        "level": 5
+      },
+      {
+        "title": "A Day In The Life - Surgeon",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1240",
+        "level": 6
+      }
+    ]
   },
   "Referring to nouns": {
     "bookDetails": "Unit 8: Referring to nouns - Page 64",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/best-2012-paranorman/uh-oh/ep_579",
-    "videoTitle": "Paranorman - Uh-Oh"
+    "videos": [
+      {
+        "title": "The Best of Bavaria",
+        "url": "https://ejoy-english.com/epic/videoEpic/3826",
+        "level": 2
+      },
+      {
+        "title": "Foo Fighters - Run",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_921",
+        "level": 3
+      },
+      {
+        "title": "Paranorman - Uh-Oh",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_579",
+        "level": 3
+      },
+      {
+        "title": "Lone Ranger - The Mask",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_497",
+        "level": 3
+      },
+      {
+        "title": "Nine Lives - Cat Whisperer",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_259",
+        "level": 3
+      },
+      {
+        "title": "ITN News - Pope Francis Inaugural Mass",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1202",
+        "level": 4
+      },
+      {
+        "title": "Tool Box Talk - Safety In Construction",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1193",
+        "level": 4
+      },
+      {
+        "title": "Homeland - Keep Your Enemies Close",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_867",
+        "level": 4
+      },
+      {
+        "title": "The Kids Are All Right - Fecund",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_778",
+        "level": 4
+      },
+      {
+        "title": "Pirates of the Caribbean 4 - King's Men",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_683",
+        "level": 4
+      },
+      {
+        "title": "Titanic - First-class Dinner",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_584",
+        "level": 4
+      },
+      {
+        "title": "Run All Night - Then I'll Let You Die",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_376",
+        "level": 4
+      },
+      {
+        "title": "Entertainment News First - Cannes Film Festival 2012",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1251",
+        "level": 5
+      },
+      {
+        "title": "Diary Of A Wimpy Kid - Dog Days - Cranium Shaker",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_561",
+        "level": 5
+      },
+      {
+        "title": "CCTV News - Brazil's Beauty Industry Boosts Economy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1221",
+        "level": 6
+      }
+    ]
   },
   "Pronouns and referencing": {
     "bookDetails": "Unit 9: Pronouns and referencing - Page 73",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/trolls/crazy-prepared/ep_223",
-    "videoTitle": "Trolls - Crazy Prepared"
+    "videos": [
+      {
+        "title": "Lance Armstrong: \"What Are You On?\"",
+        "url": "https://ejoy-english.com/epic/videoEpic/7086",
+        "level": 1
+      },
+      {
+        "title": "Shame - \"New York New York\"",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_572",
+        "level": 1
+      },
+      {
+        "title": "Jonas Brothers - LA Baby",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_996",
+        "level": 3
+      },
+      {
+        "title": "Homeland - I Want To Tell",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_885",
+        "level": 3
+      },
+      {
+        "title": "World War Z - Broken Mirror",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_501",
+        "level": 3
+      },
+      {
+        "title": "Muppets Most Wanted - Meet The Manager",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_458",
+        "level": 3
+      },
+      {
+        "title": "Trolls - Crazy Prepared",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_223",
+        "level": 3
+      },
+      {
+        "title": "xXx Return Of Xander Cage - Trading Tattoos",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_191",
+        "level": 3
+      },
+      {
+        "title": "Gran Torino - No More",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_806",
+        "level": 4
+      },
+      {
+        "title": "Paranorman - Unfinished Business",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_575",
+        "level": 4
+      },
+      {
+        "title": "Arbitrage - This Position",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_539",
+        "level": 4
+      }
+    ]
   },
   "Adjectives and adverbs": {
     "bookDetails": "Unit 10: Adjectives and adverbs - Page 80",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/fantastic-four/were-good/ep_344",
-    "videoTitle": "Fantastic Four - We're Good"
+    "videos": [
+      {
+        "title": "Tom's Day 2",
+        "url": "https://ejoy-english.com/epic/videoEpic/200",
+        "level": 1
+      },
+      {
+        "title": "Catching Up With a Friend",
+        "url": "https://ejoy-english.com/epic/videoEpic/9403",
+        "level": 2
+      },
+      {
+        "title": "I watch TV everyday",
+        "url": "https://ejoy-english.com/epic/videoEpic/7007",
+        "level": 2
+      },
+      {
+        "title": "Fantastic Four - We're Good",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_344",
+        "level": 3
+      },
+      {
+        "title": "Doctor Strange - The Strange Policy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_221",
+        "level": 3
+      },
+      {
+        "title": "Alanis Morisette - Ironic",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_964",
+        "level": 4
+      },
+      {
+        "title": "Forever - Henry and Jo",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_860",
+        "level": 4
+      },
+      {
+        "title": "My Best Friend's Girl - You're Not Attractive",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_823",
+        "level": 4
+      },
+      {
+        "title": "Fast Girls - Meet the Team",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_594",
+        "level": 4
+      },
+      {
+        "title": "History Of English - The Age Of The Dictionary",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1263",
+        "level": 6
+      }
+    ]
   },
   "Comparing things": {
     "bookDetails": "Unit 11: Comparing things - Page 90",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/avengers/nick-fury-imprisons-loki/ep_601",
-    "videoTitle": "The Avengers - Nick Fury Imprisons Loki"
+    "videos": [
+      {
+        "title": "Justin Bieber - Never Say Never ft. Jaden Smith",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1036",
+        "level": 2
+      },
+      {
+        "title": "The Company Men - Ethical Scrutiny",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_712",
+        "level": 3
+      },
+      {
+        "title": "The Avengers - Nick Fury Imprisons Loki",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_601",
+        "level": 3
+      },
+      {
+        "title": "Blade Runner 2049 - Bigger Than You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_119",
+        "level": 3
+      },
+      {
+        "title": "Tully - A Great Mom",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_42",
+        "level": 3
+      },
+      {
+        "title": "The Darkest Minds - Like Riding a Bike",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_35",
+        "level": 3
+      },
+      {
+        "title": "NFL - Timeline",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1354",
+        "level": 4
+      },
+      {
+        "title": "Howcast - How To Flirt Scientifically",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1270",
+        "level": 4
+      },
+      {
+        "title": "John Legend - Love Me Now",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_931",
+        "level": 4
+      },
+      {
+        "title": "Alessia Cara - Scars To Your Beautiful",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_923",
+        "level": 4
+      },
+      {
+        "title": "Jimmy Kimmel Live - First Look: iPhone 5",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_886",
+        "level": 4
+      },
+      {
+        "title": "Game Of Thrones - Cersei's Prophecy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_871",
+        "level": 4
+      },
+      {
+        "title": "Pretty Little Liars - Alison And Mona",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_850",
+        "level": 4
+      },
+      {
+        "title": "The Lucky One - Can I Help You?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_598",
+        "level": 4
+      },
+      {
+        "title": "Chariots Of Fire - I Run To Win",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_585",
+        "level": 4
+      },
+      {
+        "title": "Interstellar - Our Destiny",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_411",
+        "level": 4
+      },
+      {
+        "title": "Legend - First Date",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_312",
+        "level": 4
+      },
+      {
+        "title": "Eddie the Eagle - Biggest Jump",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_298",
+        "level": 4
+      },
+      {
+        "title": "Unforgettable - I'm Scared",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_161",
+        "level": 4
+      },
+      {
+        "title": "Robin Hood - Training",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_4",
+        "level": 4
+      },
+      {
+        "title": "Red Bull - Epic Surf Session at Jaws",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1368",
+        "level": 5
+      },
+      {
+        "title": "Associated Press - Victoria Beckham Wows New York at Fashion Week",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1300",
+        "level": 5
+      },
+      {
+        "title": "BBC - Window Cleaning The World's Largest Building",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1214",
+        "level": 5
+      },
+      {
+        "title": "Howcast - How to Calculate Restaurant Start-Up Costs",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1150",
+        "level": 5
+      },
+      {
+        "title": "Britney Spears - Till the World Ends",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1032",
+        "level": 5
+      },
+      {
+        "title": "Ellie Goulding - Still Falling For You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_935",
+        "level": 5
+      }
+    ]
   },
   "The noun phrase": {
     "bookDetails": "Unit 12: The noun phrase - Page 98",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/philomena/dont-be-rude/ep_466",
-    "videoTitle": "Philomena - Don't Be Rude"
+    "videos": [
+      {
+        "title": "English Heritage - How To Make A Traditional Christmas Pudding",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1136",
+        "level": 2
+      },
+      {
+        "title": "Can You Cry in Space?",
+        "url": "https://ejoy-english.com/epic/videoEpic/3515",
+        "level": 3
+      },
+      {
+        "title": "Iron Man - Prison Cell",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_796",
+        "level": 3
+      },
+      {
+        "title": "Tangled - Mother Gothel",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_753",
+        "level": 3
+      },
+      {
+        "title": "Pulp Fiction - I Want To Dance",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_366",
+        "level": 3
+      },
+      {
+        "title": "Associated Press - Wagering Around The Olympics",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1350",
+        "level": 4
+      },
+      {
+        "title": "IGN News - Playstation 4 Teaser Rocks YouTube",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1329",
+        "level": 4
+      },
+      {
+        "title": "CNET - The Samsung Galaxy S III",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1249",
+        "level": 4
+      },
+      {
+        "title": "TED Talks - Melissa Marshall: Talk Nerdy To Me",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1219",
+        "level": 4
+      },
+      {
+        "title": "The Diplomat - Living In Afghanistan",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1153",
+        "level": 4
+      },
+      {
+        "title": "Alessia Cara - Here",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_951",
+        "level": 4
+      },
+      {
+        "title": "Rock of Ages - Now Go",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_588",
+        "level": 4
+      },
+      {
+        "title": "Bachelorette - That's Insane",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_559",
+        "level": 4
+      },
+      {
+        "title": "Philomena - Don't Be Rude",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_466",
+        "level": 4
+      },
+      {
+        "title": "Valerian and the City of a Thousand Planets - Welcome",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_138",
+        "level": 4
+      },
+      {
+        "title": "Top Gear - James May's Bugatti Celebration",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1340",
+        "level": 5
+      },
+      {
+        "title": "Wall Street Journal - Uber Dishes Up Meal Deliveries In 10 Cities",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1159",
+        "level": 5
+      },
+      {
+        "title": "ABC News - Supermarkets Of The Future",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1157",
+        "level": 5
+      },
+      {
+        "title": "Cronkite News - Demand For Plant-Based Food Increases",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1107",
+        "level": 5
+      },
+      {
+        "title": "BBC - Plastics in our Oceans",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1106",
+        "level": 5
+      },
+      {
+        "title": "New York Times - C.E.S. 2011: Merging the Internet and TV",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1282",
+        "level": 6
+      },
+      {
+        "title": "Iran's Glass Mosque",
+        "url": "https://ejoy-english.com/epic/videoEpic/1403",
+        "level": 7
+      }
+    ]
   },
   "Modals 1": {
     "bookDetails": "Unit 13: Modals 1 - Page 107",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/weezer/im-your-daddy/ep_1064",
-    "videoTitle": "Weezer - I'm Your Daddy"
+    "videos": [
+      {
+        "title": "Food Song | Learn 15 Food and Drinks",
+        "url": "https://ejoy-english.com/epic/videoEpic/57621",
+        "level": 1
+      },
+      {
+        "title": "Bruno Mars - Just the Way You Are",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1049",
+        "level": 2
+      },
+      {
+        "title": "Expressing Ability",
+        "url": "https://ejoy-english.com/epic/videoEpic/381",
+        "level": 2
+      },
+      {
+        "title": "Modern Family - Lily's Science Fair Project",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_845",
+        "level": 3
+      },
+      {
+        "title": "X-Men - First Class - Magic Trick",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_679",
+        "level": 3
+      },
+      {
+        "title": "Chariots Of Fire - From Within",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_587",
+        "level": 3
+      },
+      {
+        "title": "Baggage Claim - Engaged",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_486",
+        "level": 3
+      },
+      {
+        "title": "Runner, Runner - The House",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_485",
+        "level": 3
+      },
+      {
+        "title": "Burnt - Michelin Stars",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_327",
+        "level": 3
+      },
+      {
+        "title": "Expressing Uncertainty",
+        "url": "https://ejoy-english.com/epic/videoEpic/3352",
+        "level": 4
+      },
+      {
+        "title": "AJ+ News - China's Two-Child Policy – Not Enough?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1168",
+        "level": 4
+      },
+      {
+        "title": "Weezer - I'm Your Daddy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1064",
+        "level": 4
+      },
+      {
+        "title": "Nelly ft Kelly Rowland - Gone",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1034",
+        "level": 4
+      },
+      {
+        "title": "Joyful Noise - The Man In The Mirror",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1004",
+        "level": 4
+      },
+      {
+        "title": "Take It On - One Direction Talk About How They Got Into Music",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_985",
+        "level": 4
+      },
+      {
+        "title": "Justin Bieber - Boyfriend",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_984",
+        "level": 4
+      },
+      {
+        "title": "Rock City - Locked Away",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_950",
+        "level": 4
+      },
+      {
+        "title": "for KING & COUNTRY - Ceasefire",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_932",
+        "level": 4
+      },
+      {
+        "title": "Tron Legacy - Received a Page",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_749",
+        "level": 4
+      },
+      {
+        "title": "Battleship - Enemies From Another World",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_603",
+        "level": 4
+      },
+      {
+        "title": "Warm Bodies - First Four Minutes",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_526",
+        "level": 4
+      },
+      {
+        "title": "The Other Woman - He's Married",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_446",
+        "level": 4
+      },
+      {
+        "title": "The Imitation Game - Useless Machine",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_390",
+        "level": 4
+      },
+      {
+        "title": "Far From The Madding Crowd - Sheep",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_368",
+        "level": 4
+      },
+      {
+        "title": "Hail, Caesar! - Baird Whitlock Slapped",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_297",
+        "level": 4
+      },
+      {
+        "title": "Morgan - What Would You Do?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_239",
+        "level": 4
+      },
+      {
+        "title": "Bridget Jones's Baby - Not Sure Who The Father Is...",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_233",
+        "level": 4
+      },
+      {
+        "title": "Fantastic Beasts and Where to Find Them - Case Full Of Monsters",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_211",
+        "level": 4
+      },
+      {
+        "title": "The Truman Show - Interview",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_29",
+        "level": 4
+      },
+      {
+        "title": "Ordering: Restaurant Menus",
+        "url": "https://ejoy-english.com/epic/videoEpic/4195",
+        "level": 4
+      },
+      {
+        "title": "Making Friends is Easy",
+        "url": "https://ejoy-english.com/epic/videoEpic/59260",
+        "level": 4
+      },
+      {
+        "title": "Owl City - Fireflies",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1048",
+        "level": 5
+      },
+      {
+        "title": "Martin Solveig And Dragonette - Hello",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1037",
+        "level": 5
+      },
+      {
+        "title": "Sam Smith - Writing's On The Wall (Spectre)",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_957",
+        "level": 5
+      },
+      {
+        "title": "Downsizing - Yes Or No",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_49",
+        "level": 5
+      },
+      {
+        "title": "CGTN News - Fortnite Frenzy - Video Game Looks to China",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1319",
+        "level": 6
+      },
+      {
+        "title": "Associated Press - Ahmadinejad Says Future Is Iran's",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1295",
+        "level": 6
+      },
+      {
+        "title": "BBC - Pelicans And Flying Rays",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1203",
+        "level": 6
+      },
+      {
+        "title": "Associated Press - WikiLeaks Dump Claims to Show CIA Hacking Tools",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1127",
+        "level": 6
+      },
+      {
+        "title": "The Art of the Pitch",
+        "url": "https://ejoy-english.com/epic/videoEpic/1782",
+        "level": 6
+      }
+    ]
   },
   "Modals 2": {
     "bookDetails": "Unit 14: Modals 2 - Page 114",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/destiny/new-beginnings/ep_1323",
-    "videoTitle": "Destiny - New Beginnings"
+    "videos": [
+      {
+        "title": "Nature Valley | Ask Nature",
+        "url": "https://ejoy-english.com/epic/videoEpic/60324",
+        "level": 1
+      },
+      {
+        "title": "Kids Show and Tell - Family & Culture",
+        "url": "https://ejoy-english.com/epic/videoEpic/59240",
+        "level": 3
+      },
+      {
+        "title": "The Hangover - At the Reception",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_827",
+        "level": 3
+      },
+      {
+        "title": "Young Adult - Wedding Photo",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_628",
+        "level": 3
+      },
+      {
+        "title": "Manchester by the Sea - I Can't Be His Guardian",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_218",
+        "level": 3
+      },
+      {
+        "title": "Sully - Brace For Impact",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_209",
+        "level": 3
+      },
+      {
+        "title": "Buying Clothes",
+        "url": "https://ejoy-english.com/epic/videoEpic/4836",
+        "level": 3
+      },
+      {
+        "title": "Ringo Starr on Life as a Beatle",
+        "url": "https://ejoy-english.com/epic/videoEpic/8860",
+        "level": 4
+      },
+      {
+        "title": "Destiny - New Beginnings",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1323",
+        "level": 4
+      },
+      {
+        "title": "Bruno Mars - Grenade",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1005",
+        "level": 4
+      },
+      {
+        "title": "Westworld - Welcome To Westworld",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_847",
+        "level": 4
+      },
+      {
+        "title": "The Hunger Games - Here To Help",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_610",
+        "level": 4
+      },
+      {
+        "title": "High-Rise - Party",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_276",
+        "level": 4
+      },
+      {
+        "title": "I, Tonya - Spilled Milk",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_75",
+        "level": 4
+      },
+      {
+        "title": "TED Talks - The World In 2200",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1311",
+        "level": 5
+      },
+      {
+        "title": "TED Talks - Jay Walker On The World's English Mania",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1308",
+        "level": 5
+      },
+      {
+        "title": "CBS News - Protect Your Facebook Privacy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1099",
+        "level": 5
+      },
+      {
+        "title": "Modern Family - Dunphys Cliff Dive",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_841",
+        "level": 5
+      },
+      {
+        "title": "Pompeii - Citizen Of Pompeii",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_460",
+        "level": 5
+      },
+      {
+        "title": "Man in the Box - Facebook Abuse",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_916",
+        "level": 6
+      },
+      {
+        "title": "True or False with Johnny Depp",
+        "url": "https://ejoy-english.com/epic/videoEpic/25754",
+        "level": 6
+      }
+    ]
   },
   "Reported speech": {
-    "bookDetails": "Unit 15: Reported speech - Page 123"
+    "bookDetails": "Unit 15: Reported speech - Page 123",
+    "videos": []
   },
   "Verb + verb patterns": {
     "bookDetails": "Unit 16: Verb + verb patterns - Page 133",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/abc-news/amazon-hires-thousands-people/ep_1114",
-    "videoTitle": "ABC News - Amazon Hires Thousands Of People"
+    "videos": [
+      {
+        "title": "Rascal Flatts - Summer Nights",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1072",
+        "level": 3
+      },
+      {
+        "title": "Adele - Hello",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_952",
+        "level": 3
+      },
+      {
+        "title": "Orange Is The New Black - Thirsty Bird",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_873",
+        "level": 3
+      },
+      {
+        "title": "Meet Sophia - The AI Robot",
+        "url": "https://ejoy-english.com/epic/videoEpic/13179_p4",
+        "level": 4
+      },
+      {
+        "title": "Red Bull - Shaun White's Private Pipe - Red Bull Project X",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1363",
+        "level": 4
+      },
+      {
+        "title": "docstocTV - 5 Marketing Tools Your Start-Up Must Have",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1148",
+        "level": 4
+      },
+      {
+        "title": "Bloomberg - The iPhone Decade",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1116",
+        "level": 4
+      },
+      {
+        "title": "Tripp and Tyler - Every Meeting Ever",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1102",
+        "level": 4
+      },
+      {
+        "title": "Lady Gaga - The Edge of Glory",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1014",
+        "level": 4
+      },
+      {
+        "title": "Coldplay - Every Teardrop Is a Waterfall",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1013",
+        "level": 4
+      },
+      {
+        "title": "House of Cards - Presidential Portrait",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_864",
+        "level": 4
+      },
+      {
+        "title": "Victor Frankenstein - Life Is Beautiful",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_323",
+        "level": 4
+      },
+      {
+        "title": "Point Break - The Ozaki 8",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_319",
+        "level": 4
+      },
+      {
+        "title": "The Big Short - Jenga",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_315",
+        "level": 4
+      },
+      {
+        "title": "Jaws - Close The Beaches",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_242",
+        "level": 4
+      },
+      {
+        "title": "Mission Impossible - Rogue Nation - You Can Do That",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_158",
+        "level": 4
+      },
+      {
+        "title": "The Post - Dig In",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_91",
+        "level": 4
+      },
+      {
+        "title": "The Iron Lady - Falklands",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_81",
+        "level": 4
+      },
+      {
+        "title": "Deadpool 2 - No Good Deed",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_52",
+        "level": 4
+      },
+      {
+        "title": "How to answer \"What is Your Greatest Strength?\"",
+        "url": "https://ejoy-english.com/epic/videoEpic/59114",
+        "level": 4
+      },
+      {
+        "title": "IGN - Star Wars The Old Republic Preview",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1357",
+        "level": 5
+      },
+      {
+        "title": "Apple - iPad 2012",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1255",
+        "level": 5
+      },
+      {
+        "title": "NASA - Curiosity's 7 Minutes Of Terror",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1235",
+        "level": 5
+      },
+      {
+        "title": "Forbes - Barack Obama's Three Best Public Speaking Tips",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1215",
+        "level": 5
+      },
+      {
+        "title": "Business Strategy - Visualising Your Business Model",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1187",
+        "level": 5
+      },
+      {
+        "title": "Voice Of America - Hacking The Election",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1141",
+        "level": 5
+      },
+      {
+        "title": "RT News - Europe Braces For Upheaval",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1139",
+        "level": 5
+      },
+      {
+        "title": "IBM Think Academy - Internet Of Things",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1128",
+        "level": 5
+      },
+      {
+        "title": "Wall Street Journal - UK Elections: Conservatives Fall Short",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1122",
+        "level": 5
+      },
+      {
+        "title": "ABC News - Amazon Hires Thousands Of People",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1114",
+        "level": 5
+      },
+      {
+        "title": "BBC News - Uber Loses London Licence",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1111",
+        "level": 5
+      },
+      {
+        "title": "CBS News - 'Crazy Rich Asians' Makes History Before Opening",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1091",
+        "level": 5
+      },
+      {
+        "title": "HuffPost Live - The Surprising History Of Halloween",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1088",
+        "level": 5
+      },
+      {
+        "title": "Miley Cyrus - Party In The U.S.A.",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1084",
+        "level": 5
+      },
+      {
+        "title": "50/50 - Conversation",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_651",
+        "level": 5
+      },
+      {
+        "title": "Lonely Planet - Day Of The Dead Vs Halloween In Cancun Mexico",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1339",
+        "level": 6
+      },
+      {
+        "title": "Associated Press - Egypt's Presidential Elections 2012",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1250",
+        "level": 6
+      },
+      {
+        "title": "Vox - How Cars Went From Boxy To Curvy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1120",
+        "level": 6
+      },
+      {
+        "title": "RAC Automobile - How To Change A Tire",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1101",
+        "level": 6
+      },
+      {
+        "title": "Nickelback - Rockstar",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1082",
+        "level": 6
+      },
+      {
+        "title": "Game Of Thrones - Daenerys and Tyrion Meet",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_854",
+        "level": 6
+      },
+      {
+        "title": "Lethal Weapon - Murtaugh And Riggs Get Shot At",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_844",
+        "level": 7
+      }
+    ]
   },
   "Likelihood based on conditions 1": {
     "bookDetails": "Unit 17: Likelihood based on conditions 1 - Page 144",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/pharrell-williams/happy/ep_977",
-    "videoTitle": "Pharrell Williams - Happy"
+    "videos": [
+      {
+        "title": "Study Skills - Managing your time",
+        "url": "https://ejoy-english.com/epic/videoEpic/41380",
+        "level": 2
+      },
+      {
+        "title": "Living Off the Grid in Paradise",
+        "url": "https://ejoy-english.com/epic/videoEpic/8682",
+        "level": 2
+      },
+      {
+        "title": "Avicii - Wake Me Up",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_920",
+        "level": 3
+      },
+      {
+        "title": "Gnomeo And Juliet - Balcony",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_730",
+        "level": 3
+      },
+      {
+        "title": "The Eagle - Family Honor",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_692",
+        "level": 3
+      },
+      {
+        "title": "Tree of life - Lived It",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_678",
+        "level": 3
+      },
+      {
+        "title": "Happy Feet 2 - Think Like Sven",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_632",
+        "level": 3
+      },
+      {
+        "title": "Ice Age Continental Drift - Storm",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_589",
+        "level": 3
+      },
+      {
+        "title": "Frankenweenie - Mr. Whiskers' Dream",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_560",
+        "level": 3
+      },
+      {
+        "title": "The Water Diviner - Coffee Reading",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_370",
+        "level": 3
+      },
+      {
+        "title": "Aloha - I Really Loved You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_338",
+        "level": 3
+      },
+      {
+        "title": "Pawn Sacrifice - Hopelessly Patriotic",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_337",
+        "level": 3
+      },
+      {
+        "title": "Hateful Eight - Frontier Justice",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_317",
+        "level": 3
+      },
+      {
+        "title": "Fist Fight - I Need Help",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_180",
+        "level": 3
+      },
+      {
+        "title": "The House - College Fund",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_146",
+        "level": 3
+      },
+      {
+        "title": "Terminator 2: Judgment Day - Affirmative",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_130",
+        "level": 3
+      },
+      {
+        "title": "5 tips to improve your critical thinking - Samantha Agoos",
+        "url": "https://ejoy-english.com/epic/videoEpic/16686",
+        "level": 4
+      },
+      {
+        "title": "Expert Advice On Job Interviews",
+        "url": "https://ejoy-english.com/epic/videoEpic/10396",
+        "level": 4
+      },
+      {
+        "title": "Visit Britain - Jamie Oliver",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1333",
+        "level": 4
+      },
+      {
+        "title": "Justin Bieber - U Smile",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1009",
+        "level": 4
+      },
+      {
+        "title": "Big Time Rush - Windows Down",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_993",
+        "level": 4
+      },
+      {
+        "title": "Meghan Trainor - Dear Future Husband",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_946",
+        "level": 4
+      },
+      {
+        "title": "Game Of Thrones - Be Kind To Strangers",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_842",
+        "level": 4
+      },
+      {
+        "title": "Clash Of The Titans - Die For Each Other",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_802",
+        "level": 4
+      },
+      {
+        "title": "The Iron Lady - Valuable Lesson",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_605",
+        "level": 4
+      },
+      {
+        "title": "Casablanca - We'll Always Have Paris",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_602",
+        "level": 4
+      },
+      {
+        "title": "Fun Size - Watching Albert",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_557",
+        "level": 4
+      },
+      {
+        "title": "Free State Of Jones - Free State",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_236",
+        "level": 4
+      },
+      {
+        "title": "Allied - Routine Procedures",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_210",
+        "level": 4
+      },
+      {
+        "title": "Wonder - First Day",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_101",
+        "level": 4
+      },
+      {
+        "title": "Tomb Raider - I Need You to Do Me a Favor",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_69",
+        "level": 4
+      },
+      {
+        "title": "7 Days in Entebbe - Hijacking",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_68",
+        "level": 4
+      },
+      {
+        "title": "The Right Stuff - Vice President",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_43",
+        "level": 4
+      },
+      {
+        "title": "Woman Hiker in a Wheelchair Reached the Summit",
+        "url": "https://ejoy-english.com/epic/videoEpic/59261",
+        "level": 5
+      },
+      {
+        "title": "Howcast - How To Be Popular",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1301",
+        "level": 5
+      },
+      {
+        "title": "Howcast - How To Make A Pitch",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1178",
+        "level": 5
+      },
+      {
+        "title": "International Trade Administration - How to Sell Products Internationally",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1130",
+        "level": 5
+      },
+      {
+        "title": "Pharrell Williams - Happy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_977",
+        "level": 5
+      },
+      {
+        "title": "Modernist Cuisine: The Ultimate Hamburger",
+        "url": "https://ejoy-english.com/epic/videoEpic/2657",
+        "level": 7
+      }
+    ]
   },
   "Likelihood based on conditions 2": {
     "bookDetails": "Unit 18: Likelihood based on conditions 2 - Page 154",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/fahrenheit-119/michael-moore-donald-trump-and-roseanne-barr/ep_1090",
-    "videoTitle": "Fahrenheit 11/9 - Michael Moore, Donald Trump and Roseanne Barr"
+    "videos": [
+      {
+        "title": "Comfortable: 50 People 1 Question",
+        "url": "https://ejoy-english.com/epic/videoEpic/10756_p1",
+        "level": 1
+      },
+      {
+        "title": "The Book of Henry - Apathy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_149",
+        "level": 2
+      },
+      {
+        "title": "Playing Golf",
+        "url": "https://ejoy-english.com/epic/videoEpic/4386",
+        "level": 3
+      },
+      {
+        "title": "Justin Bieber - Love Yourself",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_945",
+        "level": 3
+      },
+      {
+        "title": "Hidden Figures - We Wear Glasses",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_196",
+        "level": 3
+      },
+      {
+        "title": "Coco - Mariachi Plaza",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_103",
+        "level": 3
+      },
+      {
+        "title": "Tomb Raider - Not That Kind of Croft",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_63",
+        "level": 3
+      },
+      {
+        "title": "Bohemian Rhapsody - We Will Rock You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_10",
+        "level": 3
+      },
+      {
+        "title": "Cee Lo Green - Forget You",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1051",
+        "level": 4
+      },
+      {
+        "title": "Britney Spears - Hold It Against Me",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1042",
+        "level": 4
+      },
+      {
+        "title": "Beyonce - Single Ladies",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1027",
+        "level": 4
+      },
+      {
+        "title": "Ed Sheeran - I See Fire",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_969",
+        "level": 4
+      },
+      {
+        "title": "Game Of Thrones - Old Enemies",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_906",
+        "level": 4
+      },
+      {
+        "title": "The Rite - Total Loss of Faith",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_740",
+        "level": 4
+      },
+      {
+        "title": "Country Strong - Strong Advice",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_688",
+        "level": 4
+      },
+      {
+        "title": "Horrible Bosses - Grandmother",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_658",
+        "level": 4
+      },
+      {
+        "title": "What's Your Number - Facebook",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_642",
+        "level": 4
+      },
+      {
+        "title": "Salmon Fishing In The Yemen - Man Of Faith",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_593",
+        "level": 4
+      },
+      {
+        "title": "The Words - I Gotta Pay My Dues",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_564",
+        "level": 4
+      },
+      {
+        "title": "Pain And Gain - I'm A Doer",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_505",
+        "level": 4
+      },
+      {
+        "title": "Star Trek Into Darkness - I Allow It",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_500",
+        "level": 4
+      },
+      {
+        "title": "Harry Potter And The Deathly Hallows Part 1 - Cafe Attack Scene",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_367",
+        "level": 4
+      },
+      {
+        "title": "Jackie - Doing My Job",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_198",
+        "level": 4
+      },
+      {
+        "title": "IELTS Speaking Part 1 - Holiday",
+        "url": "https://ejoy-english.com/epic/videoEpic/45603",
+        "level": 4
+      },
+      {
+        "title": "USA Today - Puppies Behind Bars",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1303",
+        "level": 5
+      },
+      {
+        "title": "Harvard Business Review - Four Ways To Think Like An Innovator",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1218",
+        "level": 5
+      },
+      {
+        "title": "BBC News - Obama's Accomplishments",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1135",
+        "level": 5
+      },
+      {
+        "title": "Fahrenheit 11/9 - Michael Moore, Donald Trump and Roseanne Barr",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1090",
+        "level": 5
+      },
+      {
+        "title": "Lady Gaga - Million Reasons",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_934",
+        "level": 5
+      },
+      {
+        "title": "Who's Afraid of Virginia Woolf - Getting Angry, Baby?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_714",
+        "level": 5
+      },
+      {
+        "title": "Barack Obama - New START Treaty",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1289",
+        "level": 6
+      },
+      {
+        "title": "Gladiator - Other Virtues",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_228",
+        "level": 6
+      },
+      {
+        "title": "History Of English - Shakespeare",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1265",
+        "level": 7
+      }
+    ]
   },
   "Prepositions": {
     "bookDetails": "Unit 19: Prepositions - Page 164",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/bbc-news/brexit-divorce-papers/ep_1126",
-    "videoTitle": "BBC News - Brexit: The Divorce Papers"
+    "videos": [
+      {
+        "title": "Cuba Welcomes Obama",
+        "url": "https://ejoy-english.com/epic/videoEpic/60351",
+        "level": 3
+      },
+      {
+        "title": "Heat - Face-To-Face",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_350",
+        "level": 3
+      },
+      {
+        "title": "Howcast - How To Explain American Football",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1356",
+        "level": 4
+      },
+      {
+        "title": "Michael Wigge - How To Travel The World For Free",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1347",
+        "level": 4
+      },
+      {
+        "title": "UCB Comedy - Canadian Thanksgiving",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_543",
+        "level": 4
+      },
+      {
+        "title": "The Huntsman: Winter's War - Eric and Sara",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_285",
+        "level": 4
+      },
+      {
+        "title": "BBC News - Brexit: The Divorce Papers",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1126",
+        "level": 5
+      }
+    ]
   },
   "Relative clauses": {
     "bookDetails": "Unit 20: Relative clauses - Page 173",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/history-english/global-english/ep_1261",
-    "videoTitle": "History Of English - Global English"
+    "videos": [
+      {
+        "title": "We Are Part of the Ocean",
+        "url": "https://ejoy-english.com/epic/videoEpic/7297",
+        "level": 3
+      },
+      {
+        "title": "Malta - Travel Guide",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1327",
+        "level": 4
+      },
+      {
+        "title": "Al Jazeera News - Netherlands Rolls Out \"Solar Road\"",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1173",
+        "level": 4
+      },
+      {
+        "title": "Nic Mason - Homeless In Winter",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1170",
+        "level": 4
+      },
+      {
+        "title": "The Iron Lady - Non-negotiable",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_620",
+        "level": 4
+      },
+      {
+        "title": "Why We Create Music",
+        "url": "https://ejoy-english.com/epic/videoEpic/5718",
+        "level": 5
+      },
+      {
+        "title": "Bill Gates Chats with Ellen for the First Time",
+        "url": "https://ejoy-english.com/epic/videoEpic/9124",
+        "level": 5
+      },
+      {
+        "title": "Richart Sowa's Island Made of Plastic Bottles",
+        "url": "https://ejoy-english.com/epic/videoEpic/10067",
+        "level": 5
+      },
+      {
+        "title": "Skateboard Basics - Step By Step",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1320",
+        "level": 5
+      },
+      {
+        "title": "CBS News - Tuition Hikes Spark Protests in London",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1285",
+        "level": 5
+      },
+      {
+        "title": "History Of English - King James Bible",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1267",
+        "level": 5
+      },
+      {
+        "title": "U.S. Elections - Rick Santorum Campaign Ad",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1259",
+        "level": 5
+      },
+      {
+        "title": "Richard Branson - Top Five Tips For Entrepreneurs",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1213",
+        "level": 5
+      },
+      {
+        "title": "Business Insider - Mark Zuckerberg: The Three Keys To Facebook's Success",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1184",
+        "level": 5
+      },
+      {
+        "title": "BBC News - What Is Black Friday?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1138",
+        "level": 5
+      },
+      {
+        "title": "Wall Street Journal - Trump's Address to Congress in Three Minutes",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1129",
+        "level": 5
+      },
+      {
+        "title": "Elite NWO Agenda - Robots Replacing Human Jobs",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1098",
+        "level": 5
+      },
+      {
+        "title": "Educate the Heart",
+        "url": "https://ejoy-english.com/epic/videoEpic/10247",
+        "level": 5
+      },
+      {
+        "title": "Understanding Canadian Humor",
+        "url": "https://ejoy-english.com/epic/videoEpic/5672",
+        "level": 6
+      },
+      {
+        "title": "History Of English - Global English",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1261",
+        "level": 6
+      },
+      {
+        "title": "Associated Press - Romney and GOP Raise More Than Obama",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1247",
+        "level": 7
+      }
+    ]
   },
   "Ways of organising texts": {
     "bookDetails": "Unit 21: Ways of organising texts - Page 184",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/associated-press/uzbeks-caught-neighbors-close-kyrgyz-borders/ep_1306",
-    "videoTitle": "Associated Press - Uzbeks Caught As Neighbors Close Kyrgyz Borders"
+    "videos": [
+      {
+        "title": "The Art of Balancing Stones",
+        "url": "https://ejoy-english.com/epic/videoEpic/60295_p1",
+        "level": 1
+      },
+      {
+        "title": "English Language Learning Tips - Speaking Test",
+        "url": "https://ejoy-english.com/epic/videoEpic/11252",
+        "level": 2
+      },
+      {
+        "title": "The Muppets - Shocking",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_631",
+        "level": 2
+      },
+      {
+        "title": "Despicable Me 3 - Unicorns Are Real",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_147",
+        "level": 2
+      },
+      {
+        "title": "Nat Geo Wild - Worlds' Deadliest: Lions vs Zebras",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1231",
+        "level": 3
+      },
+      {
+        "title": "Rio - Any More Questions?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_708",
+        "level": 3
+      },
+      {
+        "title": "Super 8 - How To Be A Zombie",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_663",
+        "level": 3
+      },
+      {
+        "title": "The Second Best Exotic Marigold Hotel - Invitation",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_378",
+        "level": 3
+      },
+      {
+        "title": "Nerve - Blindfold",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_247",
+        "level": 3
+      },
+      {
+        "title": "A Monster Calls - Messily Ever After",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_195",
+        "level": 3
+      },
+      {
+        "title": "John Wick Chapter 2 - Suited Up",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_184",
+        "level": 3
+      },
+      {
+        "title": "The Zookeeper's Wife - Jan's Plan",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_167",
+        "level": 3
+      },
+      {
+        "title": "Jurassic World: Fallen Kingdom - Adopt A Dinosaur",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_47",
+        "level": 3
+      },
+      {
+        "title": "Deliverance - The Ability To Survive",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_11",
+        "level": 3
+      },
+      {
+        "title": "Korean Women Talk About Their Favorite TV Shows",
+        "url": "https://ejoy-english.com/epic/videoEpic/30940_p1",
+        "level": 4
+      },
+      {
+        "title": "Dexter - The First Victim",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_905",
+        "level": 4
+      },
+      {
+        "title": "Orange Is The New Black - Mystery iPhone",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_855",
+        "level": 4
+      },
+      {
+        "title": "Straw Dogs - Thou Shall Not Covet",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_652",
+        "level": 4
+      },
+      {
+        "title": "Dark Shadows - Why?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_596",
+        "level": 4
+      },
+      {
+        "title": "Pride and Prejudice and Zombies - Fairest Wifely Choices",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_294",
+        "level": 4
+      },
+      {
+        "title": "Braveheart - Freedom Speech",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_289",
+        "level": 4
+      },
+      {
+        "title": "King Arthur: Legend of the Sword - I'm Ready",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_159",
+        "level": 4
+      },
+      {
+        "title": "Digital Learning Now - Digital Learning",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1239",
+        "level": 5
+      },
+      {
+        "title": "Man Versus Wild - Bear Meets Bear",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1228",
+        "level": 5
+      },
+      {
+        "title": "Jessie J - Nobody's Perfect",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1030",
+        "level": 5
+      },
+      {
+        "title": "Game Of Thrones - I Wish To Confess",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_878",
+        "level": 5
+      },
+      {
+        "title": "Associated Press - Uzbeks Caught As Neighbors Close Kyrgyz Borders",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1306",
+        "level": 6
+      },
+      {
+        "title": "How to make Shortcrust Pastry for pies | Jamie Oliver",
+        "url": "https://ejoy-english.com/epic/videoEpic/6562",
+        "level": 7
+      }
+    ]
   },
   "The passive": {
     "bookDetails": "Unit 22: The passive - Page 191",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/2637",
-    "videoTitle": "How Is Chocolate Made?"
+    "videos": [
+      {
+        "title": "Missing Baby Found Alive",
+        "url": "https://ejoy-english.com/epic/videoEpic/7100",
+        "level": 2
+      },
+      {
+        "title": "Child 44 - I'll Kill You Myself",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_369",
+        "level": 3
+      },
+      {
+        "title": "The Founder - Selling the American Dream",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_189",
+        "level": 3
+      },
+      {
+        "title": "CNET - Super Mario Odyssey Review",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1321",
+        "level": 4
+      },
+      {
+        "title": "Discovery Channel - Flying Car Takes Off",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1316",
+        "level": 4
+      },
+      {
+        "title": "Impossible Foods - The Making Of Impossible Burger",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1093",
+        "level": 4
+      },
+      {
+        "title": "IGN - Top Five Horror Movies of All Time",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_764",
+        "level": 4
+      },
+      {
+        "title": "Saving Private Ryan - Other Private Ryan",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_129",
+        "level": 4
+      },
+      {
+        "title": "Is This Glass Half Empty?",
+        "url": "https://ejoy-english.com/epic/videoEpic/5888",
+        "level": 4
+      },
+      {
+        "title": "Sky News - Macron vs Le Pen For French Election 2017",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1125",
+        "level": 5
+      },
+      {
+        "title": "Discovery Channel - Alien Speculation",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1318",
+        "level": 6
+      },
+      {
+        "title": "Associated Press - Leaked U.S. Cables Reveal Sensitive Diplomacy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1288",
+        "level": 6
+      },
+      {
+        "title": "Wall Street Journal - Trump's 2018 State Of The Union in 3 Minutes",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1109",
+        "level": 6
+      },
+      {
+        "title": "The Killers - Read My Mind",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1016",
+        "level": 6
+      },
+      {
+        "title": "The Martian - Ares, Our Greatest Adventure",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_334",
+        "level": 6
+      },
+      {
+        "title": "How Is Chocolate Made?",
+        "url": "https://ejoy-english.com/epic/videoEpic/2637",
+        "level": 6
+      },
+      {
+        "title": "Good Will Hunting",
+        "url": "https://ejoy-english.com/epic/videoEpic/57244",
+        "level": 7
+      },
+      {
+        "title": "The Friendly Island",
+        "url": "https://ejoy-english.com/epic/videoEpic/4200",
+        "level": 7
+      }
+    ]
   },
   "Linking ideas": {
     "bookDetails": "Unit 23: Linking ideas - Page 198",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/big-bang-theory/feelings/ep_872",
-    "videoTitle": "The Big Bang Theory - Feelings"
+    "videos": [
+      {
+        "title": "I Am Number Four - Pack Your Stuff",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_723",
+        "level": 3
+      },
+      {
+        "title": "The Hunger Games - She Came With Me",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_608",
+        "level": 3
+      },
+      {
+        "title": "NBC - KC Ranks Among Most Tattooed Cities",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1297",
+        "level": 4
+      },
+      {
+        "title": "LG - A Revolution Coming",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1162",
+        "level": 4
+      },
+      {
+        "title": "Lady Gaga - Born This Way",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1041",
+        "level": 4
+      },
+      {
+        "title": "Love and Other Drugs - First Date",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_758",
+        "level": 4
+      },
+      {
+        "title": "Man On A Ledge - Is There A Bomb?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_612",
+        "level": 4
+      },
+      {
+        "title": "Trouble With The Curve - Get In The Car",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_514",
+        "level": 4
+      },
+      {
+        "title": "Due Date - Did You Use The Restroom?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_432",
+        "level": 4
+      },
+      {
+        "title": "The Choice - About Travis",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_303",
+        "level": 4
+      },
+      {
+        "title": "Sleepless - What Happened To Your Face?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_136",
+        "level": 4
+      },
+      {
+        "title": "Barack Obama - GOP Rewarding Corporations that Create Jobs Overseas",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1293",
+        "level": 5
+      },
+      {
+        "title": "Business with Bob - Starting Meetings Effectively",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1217",
+        "level": 5
+      },
+      {
+        "title": "Samsung - The Next Big Thing",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1206",
+        "level": 5
+      },
+      {
+        "title": "Green Lantern - Let's Fly Some Planes",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_667",
+        "level": 5
+      },
+      {
+        "title": "The Big Bang Theory - Feelings",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_872",
+        "level": 7
+      }
+    ]
   },
   "Showing your position in a text": {
     "bookDetails": "Unit 24: Showing your position in a text - Page 210",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/beyonce/sweet-dreams/ep_1085",
-    "videoTitle": "Beyonce - Sweet Dreams"
+    "videos": [
+      {
+        "title": "Ed Sheeran - Thinking Out Loud",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_962",
+        "level": 2
+      },
+      {
+        "title": "One Direction - Live While We're Young",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_994",
+        "level": 3
+      },
+      {
+        "title": "Limitless - Your Competition",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_676",
+        "level": 3
+      },
+      {
+        "title": "Blue Jasmine - Ginger And Chilli Fight",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_439",
+        "level": 3
+      },
+      {
+        "title": "Howcast - How To Dress For A Job Interview",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1317",
+        "level": 4
+      },
+      {
+        "title": "Christopher Warner - What Is Verbal Irony?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1189",
+        "level": 4
+      },
+      {
+        "title": "Mike Posner - Please Don't Go",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1035",
+        "level": 4
+      },
+      {
+        "title": "Taylor Swift - Mean",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1025",
+        "level": 4
+      },
+      {
+        "title": "Mika - Big Girl",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1021",
+        "level": 4
+      },
+      {
+        "title": "Unfinished Business - GPS in German",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_383",
+        "level": 4
+      },
+      {
+        "title": "The Hunger Games - Mockingjay Part 2 - Star Squad",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_324",
+        "level": 4
+      },
+      {
+        "title": "Rolling Stone - Wyclef Jean Details His Run for President of Haiti",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1299",
+        "level": 5
+      },
+      {
+        "title": "The Police - Every Breath You Take",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1056",
+        "level": 5
+      },
+      {
+        "title": "One Republic - Wherever I Go",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_936",
+        "level": 5
+      },
+      {
+        "title": "Beyonce - Sweet Dreams",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1085",
+        "level": 6
+      }
+    ]
   },
   "Nominalisation in written English": {
     "bookDetails": "Unit 25: Nominalisation in written English - Page 216",
-    "videoUrl": "https://ejoy-english.com/epic/videoEpic/59279",
-    "videoTitle": "Taking Life Seriously, But Not Too Much"
+    "videos": [
+      {
+        "title": "The Night Manager - Roper Shows Pine the Camp",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_853",
+        "level": 3
+      },
+      {
+        "title": "Oz The Great And Powerful - Evanora vs Theodora",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_519",
+        "level": 3
+      },
+      {
+        "title": "Patriots Day - The FBI Arrives",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_194",
+        "level": 3
+      },
+      {
+        "title": "What Would Happen If You Didn't Sleep?",
+        "url": "https://ejoy-english.com/epic/videoEpic/10083",
+        "level": 4
+      },
+      {
+        "title": "CNN - Security A Priority For London Olympics",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1254",
+        "level": 4
+      },
+      {
+        "title": "The Ellen Show - Taylor Swift Interview",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1183",
+        "level": 4
+      },
+      {
+        "title": "The Guardian - Bitcoin Explained and Made Simple",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1166",
+        "level": 4
+      },
+      {
+        "title": "Wall Street Journal - What Is The Zika Virus?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1164",
+        "level": 4
+      },
+      {
+        "title": "Nirvana - Smells Like Teen Spirit",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1059",
+        "level": 4
+      },
+      {
+        "title": "Amy Winehouse - Love Is A Losing Game",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_933",
+        "level": 4
+      },
+      {
+        "title": "College Humor - Dance Clubs Are the Worst",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_914",
+        "level": 4
+      },
+      {
+        "title": "The Dictator - Official Opening Scene",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_597",
+        "level": 4
+      },
+      {
+        "title": "This Is Where I Leave You - Grounded",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_418",
+        "level": 4
+      },
+      {
+        "title": "Star Wars Episode VII - The Force Awakens - Legacy",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_321",
+        "level": 4
+      },
+      {
+        "title": "Race - Meet Jesse Owens",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_302",
+        "level": 4
+      },
+      {
+        "title": "Captain Fantastic - When Is Mom Coming Back?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_252",
+        "level": 4
+      },
+      {
+        "title": "Churchill - Face Off",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_154",
+        "level": 4
+      },
+      {
+        "title": "Daddy's Home 2 - Thermostat",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_105",
+        "level": 4
+      },
+      {
+        "title": "Winchester - Purpose of the Construction",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_82",
+        "level": 4
+      },
+      {
+        "title": "TED Talks - Do The Green Thing",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1310",
+        "level": 5
+      },
+      {
+        "title": "Associated Press - Obama, Romney Clash on Jobs Report",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1245",
+        "level": 5
+      },
+      {
+        "title": "Business Strategy - Telling Your Story",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1186",
+        "level": 5
+      },
+      {
+        "title": "P!nk - Perfect",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1038",
+        "level": 5
+      },
+      {
+        "title": "Taylor Swift - Shake It Off",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_971",
+        "level": 5
+      },
+      {
+        "title": "The Nutcracker And The Four Realms - She's A Princess",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_5",
+        "level": 5
+      },
+      {
+        "title": "CNN - Is The Trump Brand Declining?",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1142",
+        "level": 6
+      },
+      {
+        "title": "An Inconvenient Sequel - Flooding",
+        "url": "https://ejoy-english.com/epic/videoEpic/ep_1115",
+        "level": 6
+      },
+      {
+        "title": "Fight Climate Change, Eat Less Meat",
+        "url": "https://ejoy-english.com/epic/videoEpic/9884",
+        "level": 6
+      },
+      {
+        "title": "Taking Life Seriously, But Not Too Much",
+        "url": "https://ejoy-english.com/epic/videoEpic/59279",
+        "level": 7
+      }
+    ]
   }
 }

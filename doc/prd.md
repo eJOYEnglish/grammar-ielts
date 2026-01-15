@@ -128,6 +128,16 @@ The **Global English Grammar Diagnostic Tool** is a web-based assessment applica
     *   Card 1: Image of "Grammar for IELTS" book -> "Buy Now".
     *   Card 2: eJOY Logo -> "Watch Video Lessons".
 
+### 7.4 Study Plan Page (New)
+*   **Header:** "Study Plan" with Back and Share buttons.
+*   **Hero:** "Your Personalized Study Plan" with subtext.
+*   **Top Recommendations:** Two prominent cards linking to "Grammar for IELTS" and "Practice on eJOY".
+*   **Weak Grammar Topics List:**
+    *   Card-based layout for each weak topic.
+    *   **Study Reference Section:** Icon + "Grammar for IELTS - Unit X".
+    *   **Practice Section:** Icon + Video Lesson Title + **Level Badge** (e.g., "B2").
+*   **Footer:** Fixed "Continue" button leading to Email Request.
+
 ---
 
 ## 8. Data Model Overview
